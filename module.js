@@ -8,6 +8,24 @@ Hooks.once('init', () => {
             lang: 'pt-BR',
             dir: 'compendium',
         });
+
+        // Conversor para traduzir as habilidades (itens embutidos) dos adversários
+        babele.registerConverters({
+            dhAdversaryItems: (items, translations) => {
+                if (!Array.isArray(items) || !translations) return items;
+                return items.map((item) => {
+                    const t = translations[item.name];
+                    if (!t) return item;
+                    const updated = foundry.utils.deepClone(item);
+                    if (t.name) updated.name = t.name;
+                    if (typeof t.description === 'string') {
+                        updated.system = updated.system || {};
+                        updated.system.description = t.description;
+                    }
+                    return updated;
+                });
+            },
+        });
     }
 });
 
