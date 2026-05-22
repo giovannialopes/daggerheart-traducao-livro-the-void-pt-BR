@@ -1,0 +1,19 @@
+{
+  "label": "Armas",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Fangs": {
+      "name": "Presas"
+    },
+    "Unarmed Strikes (d8+d6)": {
+      "name": "Golpes Desarmados (d8+d6)",
+      "description": "<p>Seus golpes desarmados são considerados uma arma Corpo a Corpo, usam o atributo de sua escolha e causam d8+d6 de dano físico usando sua Proficiência.</p><p></p><h3>GOLPES COMBINADOS</h3><p>Após fazer uma rolagem de dano com uma arma Corpo a Corpo, mas antes de causar esse dano ao alvo, marque 1 Fadiga para iniciar um golpe combinado. Quando fizer isso, role seu Dado de Combo e anote seu valor. Em seguida, role seu Dado de Combo novamente. Se o valor do segundo resultado for igual ou maior que o primeiro, continue rolando até que o último resultado do Dado de Combo seja menor que o anterior. Some todos os valores rolados e adicione esse total ao dano da sua arma. Esses valores não podem ser ajustados por habilidades que afetam dados de dano.</p><p></p><p>Seu Dado de Combo começa como um d4. Ao subir de nível, uma vez por Grau você pode usar uma de suas opções de avanço para aumentar seu Dado de Combo.</p>"
+    },
+    "Unarmed Strikes Powerhouse (d10+d6)": {
+      "name": "Golpes Desarmados Força Bruta (d10+d6)",
+      "description": "<p>Seus golpes desarmados são considerados uma arma Corpo a Corpo, usam o atributo de sua escolha e causam d8+d6 de dano físico usando sua Proficiência.</p><p></p><h3>GOLPES COMBINADOS</h3><p>Após fazer uma rolagem de dano com uma arma Corpo a Corpo, mas antes de causar esse dano ao alvo, marque 1 Fadiga para iniciar um golpe combinado. Quando fizer isso, role seu Dado de Combo e anote seu valor. Em seguida, role seu Dado de Combo novamente. Se o valor do segundo resultado for igual ou maior que o primeiro, continue rolando até que o último resultado do Dado de Combo seja menor que o anterior. Some todos os valores rolados e adicione esse total ao dano da sua arma. Esses valores não podem ser ajustados por habilidades que afetam dados de dano.</p><p></p><p>Seu Dado de Combo começa como um d4. Ao subir de nível, uma vez por Grau você pode usar uma de suas opções de avanço para aumentar seu Dado de Combo.</p>"
+    }
+  }
+}

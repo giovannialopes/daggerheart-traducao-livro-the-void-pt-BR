@@ -1,0 +1,193 @@
+{
+  "label": "Classes - O Void",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Class Features": "Habilidades de Classe",
+    "Class Items": "Itens de Classe",
+    "Standard Take": "Itens Iniciais",
+    "Brawler": "Brigão",
+    "Blood Hunter": "Caçador de Sangue",
+    "Assassin": "Assassino",
+    "Witch": "Bruxa",
+    "Warlock": "Bruxo",
+    "Level 5": "Nível 5",
+    "Level 8": "Nível 8",
+    "Tier 1": "Grau 1"
+  },
+  "entries": {
+    "Class Items": {
+      "name": "Itens de Classe",
+      "description": ""
+    },
+    "Witch": {
+      "name": "Bruxa",
+      "description": "<p>Praticantes mágicos que se comunicam com as forças da natureza e entidades de reinos além. Bruxas invocam seu poder através de rituais, encantamentos, ervas, pedras, velas e outras ferramentas para realizar sua vontade e conjurar feitiços poderosos.</p><h3><br />Perguntas de Histórico</h3><ul><li><p>Como você descobriu pela primeira vez sua afinidade com o ofício mágico?</p></li><li><p>Você já usou seu poder para ajudar alguém em uma situação desesperadora. Quem eram eles e por que vieram até você?</p></li><li><p>Sua magia uma vez abriu uma porta que era melhor deixar fechada. Quem ou o que estava do outro lado?</p></li></ul><p></p><h3>Conexões</h3><ul><li><p>O que sobre minha prática mágica mais te deixa inquieto?</p></li><li><p>Certa vez apareci para você em um sonho e compartilhei uma visão do futuro. O que eu lhe disse?</p></li><li><p>Por que você vem a mim em busca de conselho?</p></li></ul>"
+    },
+    "Warlock": {
+      "name": "Bruxo",
+      "description": "<p>Como bruxo, você dedicou sua vida a um patrono em troca de grande poder.</p><p></p>"
+    },
+    "Blood Hunter": {
+      "name": "Caçador de Sangue",
+      "description": "<p>Domine a arte da hemocrafia e explore os segredos que podem ser desvendados dentro do poder do seu próprio sangue. Caçadores de Sangue são praticantes habilidosos em busca implacável de novas magias e as sombrias habilidades esperando para ser descobertas dentro de si mesmos!</p><p></p><h3>Atributos Sugeridos</h3><p>+1 Instinto, 0 Presença, 0 Conhecimento</p><p><strong>Exterminador de Fantasmas / Mutante:</strong> +2 Agilidade, −1 Força, +1 Destreza</p><p><strong>Licantropo:</strong> +1 Agilidade, +2 Força, −1 Destreza</p><p></p><h3>Arma Principal Sugerida</h3><p><strong>Exterminador de Fantasmas / Mutante:</strong> Espada Longa (Corpo a Corpo de Agilidade, d8 + 3 fís, Duas Mãos)</p><p><strong>Licantropo:</strong> Machado de Batalha (Corpo a Corpo de Força, d10 + 3 fís, Duas Mãos)</p>"
+    },
+    "Class Features": {
+      "name": "Habilidades de Classe",
+      "description": ""
+    },
+    "Assassin": {
+      "name": "Assassino",
+      "description": "<p>Assassinos são mestres na arte de escapar das defesas de seus oponentes para infligir dor terrível e golpes mortais. Quando um assassino marca alguém para a morte, ele persegue sua presa com intenção inabalável.</p>"
+    },
+    "Standard Take": {
+      "name": "Itens Iniciais",
+      "description": ""
+    },
+    "Brawler": {
+      "name": "Brigão",
+      "description": "<p>Especialistas em combate desarmado, os brigões aprimoram seus corpos em armas letais usando impressionante proeza física. Seja aprendendo em um ambiente escolar estruturado ou adquirindo suas habilidades uma briga por vez, o processo é sempre rigoroso, com os brigões desenvolvendo seu corpo e mente para trabalhar como um só.</p><p></p>"
+    },
+    "A Ring You Can't Remove": {
+      "name": "Um Anel que Você Não Consegue Tirar",
+      "description": ""
+    },
+    "Combo Strikes (D8)": {
+      "name": "Golpes em Combo (D8)",
+      "description": "<p>Após fazer um teste de dano com uma Arma Corpo a Corpo, mas antes de causar aquele dano ao alvo, <strong>marque uma Fadiga</strong> para iniciar um golpe em combo. Ao fazer isso, role um Dado de Combo e anote seu valor. Depois, role outro Dado de Combo novamente. Se o valor do segundo dado for igual ou maior que o seu primeiro Dado de Combo, continue rolando até que o último Dado de Combo seja menor que o resultado que o precedeu. Some todos os valores rolados e adicione esse total ao dano de sua arma. Esses valores não podem ser ajustados por habilidades que afetam dados de dano.</p><p>Seu Dado de Combo começa como um <strong>d4</strong>. Ao subir de nível, uma vez por grau você pode usar uma de suas opções de avanço para aumentar seu Dado de Combo.</p>"
+    },
+    "Hex": {
+      "name": "Maldição",
+      "description": ""
+    },
+    "Combo Strikes (D10)": {
+      "name": "Golpes em Combo (D10)",
+      "description": "<p>Após fazer um teste de dano com uma Arma Corpo a Corpo, mas antes de causar aquele dano ao alvo, <strong>marque uma Fadiga</strong> para iniciar um golpe em combo. Ao fazer isso, role um Dado de Combo e anote seu valor. Depois, role outro Dado de Combo novamente. Se o valor do segundo dado for igual ou maior que o seu primeiro Dado de Combo, continue rolando até que o último Dado de Combo seja menor que o resultado que o precedeu. Some todos os valores rolados e adicione esse total ao dano de sua arma. Esses valores não podem ser ajustados por habilidades que afetam dados de dano.</p><p>Seu Dado de Combo começa como um <strong>d4</strong>. Ao subir de nível, uma vez por grau você pode usar uma de suas opções de avanço para aumentar seu Dado de Combo.</p>"
+    },
+    "Marked for Death": {
+      "name": "Marcado para a Morte",
+      "description": "<p>Em um ataque bem-sucedido com arma, você pode <strong>marcar uma Fadiga</strong> para deixar o alvo Marcado para a Morte. Ataques que você faz contra um alvo que está Marcado para a Morte recebem um bônus de dano igual a <strong>+1d4</strong> por grau.</p><p>Você só pode ter um adversário <em>Marcado para a Morte</em> por vez, e não pode transferir ou remover a condição exceto derrotando o alvo. O Mestre pode gastar um número de Medo igual à sua Proficiência para remover a condição <em>Marcado para a Morte</em>. Caso contrário, ela termina automaticamente quando você faz um descanso.</p>"
+    },
+    "Hand Wraps": {
+      "name": "Ataduras para as Mãos",
+      "description": "<p>Essas ataduras foram passadas para você pelo seu mentor.</p>"
+    },
+    "Combo Strikes (D4)": {
+      "name": "Golpes em Combo (D4)",
+      "description": "<p>Após fazer um teste de dano com uma Arma Corpo a Corpo, mas antes de causar aquele dano ao alvo, <strong>marque uma Fadiga</strong> para iniciar um golpe em combo. Ao fazer isso, role um Dado de Combo e anote seu valor. Depois, role outro Dado de Combo novamente. Se o valor do segundo dado for igual ou maior que o seu primeiro Dado de Combo, continue rolando até que o último Dado de Combo seja menor que o resultado que o precedeu. Some todos os valores rolados e adicione esse total ao dano de sua arma. Esses valores não podem ser ajustados por habilidades que afetam dados de dano.</p><p>Seu Dado de Combo começa como um <strong>d4</strong>. Ao subir de nível, uma vez por grau você pode usar uma de suas opções de avanço para aumentar seu Dado de Combo.</p>"
+    },
+    "Tiny Pet": {
+      "name": "Bichinho de Estimação",
+      "description": "<p>Um pequeno animal inofensivo vinculado como seu familiar.</p>"
+    },
+    "Warlock Patron": {
+      "name": "Patrono do Bruxo",
+      "description": "<p>Você se comprometeu com um patrono (deus, demônio, fada ou outra entidade sobrenatural) em troca de poder. Escreva o nome deles no espaço em sua ficha. Depois, escolha suas esferas de influência a critério do Mestre (como Natureza &amp; Travessura, Amor &amp; Guerra, Conhecimento &amp; Sombra, etc.), registre-as no espaço fornecido e defina seu valor como +2. Sempre que você aumentar seu <strong>grau</strong>, essas esferas de influência também ganham um bônus permanente de +1. Antes de fazer um <strong>teste de ação</strong> relacionado a uma das esferas de influência do seu patrono, você pode gastar um Favor para invocá-los e adicionar seu valor ao teste.</p>"
+    },
+    "Commune": {
+      "name": "Comunhão",
+      "description": "<p>Uma vez por Descanso Longo, durante um momento de calma, você pode se comunicar com um ancestral, divindade, espírito da natureza ou ser sobrenatural. Faça-lhes uma pergunta e então role um número de d6s igual ao seu atributo de Conjuração. Escolha um valor dos resultados rolados e consulte a tabela abaixo para o efeito:</p><p>[[/r 1d6]]</p><ul><li><p>1-3: Você sente um sabor, cheira um aroma ou sente uma sensação relevante para a resposta.</p></li><li><p>4-5: Você ouve sons ou vê uma visão relevante para a resposta.</p></li><li><p>6: Você experimenta psiquicamente uma cena relevante para a resposta como se estivesse lá.</p></li></ul>"
+    },
+    "Steel Needle": {
+      "name": "Agulha de Aço",
+      "description": ""
+    },
+    "Grim Psychometry": {
+      "name": "Psicometria Sombria",
+      "description": "<p>Enquanto inspeciona uma criatura, um local ou um objeto dentro do alcance Muito Próximo, faça um Teste de Conjuração (12). Em caso de sucesso, marque uma Fadiga para ter uma visão da violência mais recente envolvendo o alvo e, até terminar um descanso, você tem Vantagem em qualquer teste de ação para recordar conhecimentos sobre as coisas da visão.</p>"
+    },
+    "Get In & Get Out": {
+      "name": "Entre e Saia",
+      "description": "<p><strong>Gaste uma Esperança</strong> para pedir ao Mestre uma maneira rápida ou discreta de entrar ou sair de um edifício ou estrutura que você pode ver. O próximo teste que você fizer que capitalize sobre essa informação tem <strong>Vantagem</strong>.</p>"
+    },
+    "A List of Names with Several Marked Off": {
+      "name": "Uma Lista de Nomes com Vários Riscados",
+      "description": ""
+    },
+    "Patron's Boon": {
+      "name": "Graça do Patrono",
+      "description": ""
+    },
+    "Blood Maledict": {
+      "name": "Maldição de Sangue",
+      "description": "<p>Gaste 3 Esperança para mirar uma criatura dentro do alcance Distante ou em uma visão da sua Psicometria Sombria. Até terminar um descanso, receber Dano Grave ou usar esta habilidade novamente, você tem Vantagem em todos os testes de ação contra o alvo.</p>"
+    },
+    "50ft of Rope": {
+      "name": "15 metros de Corda",
+      "description": ""
+    },
+    "Combo Strikes (D6)": {
+      "name": "Golpes em Combo (D6)",
+      "description": "<p>Após fazer um teste de dano com uma Arma Corpo a Corpo, mas antes de causar aquele dano ao alvo, <strong>marque uma Fadiga</strong> para iniciar um golpe em combo. Ao fazer isso, role um Dado de Combo e anote seu valor. Depois, role outro Dado de Combo novamente. Se o valor do segundo dado for igual ou maior que o seu primeiro Dado de Combo, continue rolando até que o último Dado de Combo seja menor que o resultado que o precedeu. Some todos os valores rolados e adicione esse total ao dano de sua arma. Esses valores não podem ser ajustados por habilidades que afetam dados de dano.</p><p>Seu Dado de Combo começa como um <strong>d4</strong>. Ao subir de nível, uma vez por grau você pode usar uma de suas opções de avanço para aumentar seu Dado de Combo.</p>"
+    },
+    "Vial Holding a Foe's Blood": {
+      "name": "Frasco com o Sangue de um Inimigo",
+      "description": ""
+    },
+    "I Am the Weapon": {
+      "name": "Eu Sou a Arma",
+      "description": "<p>Enquanto você não tiver nenhuma arma equipada:</p><ul><li><p>Você recebe um bônus de +1 à Evasão.</p></li><li><p>Seus golpes desarmados são considerados uma Arma Corpo a Corpo, usam o atributo de sua escolha e causam dano fís d8+d6 usando sua Proficiência.</p></li></ul>"
+    },
+    "Crimson Rite": {
+      "name": "Rito Carmesim",
+      "description": "<p>Você pode encantar seus golpes com poder sedento de sangue ao custo de sua vitalidade. Marque um Ponto de Vida para encantar uma de suas armas ativas.</p><p></p><p>Até terminar seu próximo descanso, aquela arma causa dano físico ou mágico (escolha quando usar esta habilidade) e 1d6 de dano extra ao acertar com ela. Este dano extra aumenta para 2d6 no nível 5 e 3d6 no nível 8.</p>"
+    },
+    "Mortar and Pestle Inscribed With a Mysterious Insignia": {
+      "name": "Pilão e Almofariz Gravados com uma Insígnia Misteriosa",
+      "description": ""
+    },
+    "Book about a Hobby": {
+      "name": "Livro sobre um Hobby",
+      "description": "<p>Este livro é dedicado a um hobby particular seu. Você define qual.</p>"
+    },
+    "A Carving That Symbolizes Your Patron": {
+      "name": "Uma Escultura que Simboliza Seu Patrono",
+      "description": ""
+    },
+    "Witch's Charm": {
+      "name": "Encanto da Bruxa",
+      "description": "<p>Quando você ou um aliado dentro do alcance Distante rola uma falha em um teste de ação, você pode <strong>gastar 3 Esperança</strong> para transformá-la em um sucesso com Medo.</p>"
+    },
+    "Staggering Strike": {
+      "name": "Golpe Atordoante",
+      "description": "<p><strong>Gaste 3 Esperança</strong> quando você tiver sucesso em um ataque para Atordoar temporariamente seu alvo e forçá-lo a marcar uma Fadiga. Enquanto Atordoado, ele tem Desvantagem nos testes de ataque.</p>"
+    },
+    "Basic Supplies": {
+      "name": "Suprimentos Básicos",
+      "description": ""
+    },
+    "Favor": {
+      "name": "Favor",
+      "description": "<p>Comece com 3 Favores. Durante um descanso, use uma de suas ações de <strong>Tempo Livre</strong> para se comunicar com seu patrono. Ao fazer isso, ganhe Favor igual à sua Presença. Se você optar por não fazer esta oferenda, o Mestre ganha um <strong>Medo</strong> em vez disso.</p>"
+    },
+    "Talking Skull": {
+      "name": "Crânio Falante",
+      "description": "<p>Um crânio encantado que fala.</p>"
+    },
+    "Grim Resolve": {
+      "name": "Determinação Sombria",
+      "description": "<p><strong>Gaste 3 Esperança</strong> para <strong>recuperar 2 Fadiga.</strong></p>"
+    },
+    "Torch": {
+      "name": "Tocha",
+      "description": ""
+    },
+    "Evasion +1": {
+      "name": "Evasão +1",
+      "description": ""
+    },
+    "Level 5": {
+      "name": "Nível 5",
+      "description": ""
+    },
+    "Level 8": {
+      "name": "Nível 8",
+      "description": ""
+    },
+    "Tier 1": {
+      "name": "Grau 1",
+      "description": ""
+    }
+  }
+}

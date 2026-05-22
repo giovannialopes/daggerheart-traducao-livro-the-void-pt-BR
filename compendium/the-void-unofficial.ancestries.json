@@ -1,0 +1,81 @@
+{
+  "label": "Ancestralidades",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Ancestry Features": "Habilidades de Ancestralidade"
+  },
+  "entries": {
+    "Ancestry Features": {
+      "name": "Habilidades de Ancestralidade"
+    },
+    "Aetheris": {
+      "name": "Aetheris",
+      "description": "<p><em>Aetheris são humanoides que possuem auras radiantes e olhos brilhantes. Eles são descendentes de celestiais dos Reinos das Alturas.</em></p>"
+    },
+    "Gnome": {
+      "name": "Gnomo",
+      "description": "<p><em>Gnomos são humanoides de baixa estatura, facilmente reconhecidos por sua musculatura densa, braços longos e traços faciais marcantes.</em></p>"
+    },
+    "Earthkin": {
+      "name": "Terrestre"
+    },
+    "Skykin": {
+      "name": "Aéreo"
+    },
+    "Emberkin": {
+      "name": "Ígneo"
+    },
+    "Tidekin": {
+      "name": "Aquático"
+    },
+    "Magical Sense": {
+      "name": "Sentido Mágico",
+      "description": "<p>Você pode sentir a presença de criaturas mágicas. Você tem vantagem em testes para rastrear ou localizar criaturas com habilidade mágica.</p>"
+    },
+    "Fireproof": {
+      "name": "À Prova de Fogo",
+      "description": "<p>Você é imune a dano causado por chamas mágicas ou mundanas.</p>"
+    },
+    "Lifespring": {
+      "name": "Fonte de Vida",
+      "description": "<p>Uma vez por descanso, quando você tem acesso a uma pequena quantidade de água, pode <strong>marcar 2 Fadiga</strong> para recuperar 1 Ponto de Vida em você mesmo ou em um aliado.</p>"
+    },
+    "Divine Countenance": {
+      "name": "Presença Divina",
+      "description": "<p>Você tem vantagem em testes para comandar ou persuadir.</p>"
+    },
+    "Gale Force": {
+      "name": "Força do Vendaval",
+      "description": "<p><strong>Marque 1 Fadiga</strong> para conjurar uma rajada de vento que carrega você ou um aliado até o alcance Muito Distante. Além disso, você sempre pode controlar a velocidade com que cai.</p>"
+    },
+    "Amphibious": {
+      "name": "Anfíbio",
+      "description": "<p>Você pode respirar e se mover naturalmente debaixo d'água.</p>"
+    },
+    "Immoveable": {
+      "name": "Inabalável",
+      "description": "<p>Enquanto seus pés estiverem tocando o chão, você não pode ser levantado ou movido contra sua vontade.</p>"
+    },
+    "Ignition": {
+      "name": "Ignição",
+      "description": "<p><strong>Marque 1 Fadiga</strong> para envolver sua arma principal em chamas até o fim da cena. Enquanto em chamas, ela emite uma luz brilhante e concede um bônus de <strong>1d6</strong> em rolagens de dano contra alvos dentro do alcance corpo a corpo.</p>"
+    },
+    "Stoneskin": {
+      "name": "Pele de Pedra"
+    },
+    "Eye of the Storm": {
+      "name": "Olho do Furacão",
+      "description": "<p><strong>Gaste 2 Esperança</strong> para conceder um bônus de <strong>+1</strong> à Evasão sua ou de um aliado até que você sofra dano Grave novamente ou use Olho do Furacão outra vez.</p>"
+    },
+    "Hallowed Aura": {
+      "name": "Aura Sagrada",
+      "description": "<p>Uma vez por descanso, quando um aliado dentro do alcance Próximo rolar com Medo, você pode transformá-la em uma rolagem com Esperança.</p>"
+    },
+    "Nimble Fingers": {
+      "name": "Dedos Ágeis",
+      "description": "<p>Quando você faz um Teste de Destreza, pode <strong>gastar 2 Esperança</strong> para rolar novamente o Dado de Esperança.</p>"
+    }
+  }
+}

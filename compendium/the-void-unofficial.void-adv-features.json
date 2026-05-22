@@ -1,0 +1,308 @@
+{
+  "label": "Habilidades de Adversários (The Void)",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Passive": "Passiva",
+    "Action": "Ação",
+    "Reaction": "Reação",
+    "Skulk": "Espreitador",
+    "Bruiser": "Brutamontes",
+    "Social": "Social",
+    "Standard": "Padrão",
+    "Void": "O Vazio",
+    "Support": "Suporte",
+    "Solo": "Solo",
+    "Horde": "Horda",
+    "Ranged": "Distância",
+    "Leader": "Líder"
+  },
+  "entries": {
+    "Passive": {
+      "name": "Passiva"
+    },
+    "Action": {
+      "name": "Ação"
+    },
+    "Skulk": {
+      "name": "Espreitador"
+    },
+    "Reaction": {
+      "name": "Reação"
+    },
+    "Bruiser": {
+      "name": "Brutamontes"
+    },
+    "Social": {
+      "name": "Social"
+    },
+    "Standard": {
+      "name": "Padrão"
+    },
+    "Void": {
+      "name": "O Vazio"
+    },
+    "Support": {
+      "name": "Suporte"
+    },
+    "Solo": {
+      "name": "Solo"
+    },
+    "Horde": {
+      "name": "Horda"
+    },
+    "Ranged": {
+      "name": "Distância"
+    },
+    "Leader": {
+      "name": "Líder"
+    },
+    "Collateral Damage": {
+      "name": "Dano Colateral",
+      "description": "<p>Dano Colateral - Passiva: O movimento de Xero não pode ser impedido, obstaculizado ou afetado por qualquer efeito externo.</p><p></p><p>Todo terreno destrutível ou obstáculo no caminho de Xero é destruído quando Xero se move através deles.</p>"
+    },
+    "Leaping Strike": {
+      "name": "Golpe Saltador",
+      "description": "<p>Golpe Saltador - Ação: Marque uma Fadiga e escolha um alvo dentro de alcance Distante.</p><p></p><p>O Cavaleiro se move para o alcance Corpo a Corpo do alvo e faz um ataque padrão contra ele.</p><p></p><p>Com sucesso, ganhe um bônus de +1d12 na rolagem de dano e o alvo deve marcar um Slot de Armadura sem receber seus benefícios (ele ainda pode usar armadura para reduzir o dano).</p>"
+    },
+    "High Ground": {
+      "name": "Terreno Elevado",
+      "description": "<p>Terreno Elevado - Passiva: O Cavaleiro ganha um bônus de +2 nas rolagens de ataque</p><p>ao atacar um alvo de cima.</p>"
+    },
+    "Radioactive Breath": {
+      "name": "Sopro Radioativo",
+      "description": "<p>Sopro Radioativo - Ação: Gaste um Medo para fazer Xero carregar um feixe nuclear e coloque um token neste bloco de estatísticas.</p><p></p><p>Na próxima vez que Xero tomar o destaque, você pode gastar este token e liberar o feixe.</p><p></p><p>Trace uma linha com largura de alcance Próximo de Xero até a borda do campo de batalha.</p><p></p><p>Todos os PJs dentro deste caminho devem fazer um Teste de Reação de Agilidade.</p><p></p><p>Alvos que falharem sofrem 4d12+12 de dano mágico direto.</p><p></p><p>Alvos que tiverem sucesso sofrem metade do dano.</p><p></p><p>Xero não pode usar esta ação novamente até sofrer dano Grave.</p>"
+    },
+    "Psychic Blast": {
+      "name": "Explosão Psíquica",
+      "description": "<p>Explosão Psíquica - Ação: <strong>Gaste um Medo</strong> e escolha até três alvos dentro de alcance Próximo para fazer um Teste de Reação de Conhecimento ou Instinto (20).</p><p></p><p>Alvos que tiverem sucesso sofrem 2d10+5 de dano mágico direto.</p><p></p><p>Alvos que falharem sofrem 4d10+10 de dano mágico direto e ficam Vulneráveis até serem destacados.</p>"
+    },
+    "Hellsong": {
+      "name": "Canção do Inferno",
+      "description": "<p>Canção do Inferno - Ação: Gaste 2 Medos para fazer a montaria do Rei das Sombras soltar um grito arrepiante que ecoa pelo campo de batalha.</p><p></p><p>Todos os PJs dentro de alcance Distante devem fazer um Teste de Reação de Presença (18). Alvos que tiverem sucesso devem marcar uma Fadiga. Alvos que falharem devem marcar uma Fadiga e perder uma Esperança. Se o PJ não puder perder uma Esperança, você ganha 1 Medo.</p>"
+    },
+    "Relic Hunter": {
+      "name": "Caçador de Relíquias",
+      "description": "<p>Caçador de Relíquias - Passiva: O Rei das Sombras tem vantagem em ataques</p><p>contra PJs com armas ou armaduras mágicas equipadas.</p>"
+    },
+    "Relentless (X)": {
+      "name": "Implacável (X)",
+      "description": "<p>Implacável (X) - Passiva: Xero pode ser destacado até X vezes por turno do Mestre, onde X é o número de PJs na cena. Gaste Medo como de costume para destacá-lo.</p>"
+    },
+    "Alluring Voice": {
+      "name": "Voz Sedutora",
+      "description": "<p>Voz Sedutora - Ação: A Bruxa Coruja pode imitar perfeitamente a voz de um ente querido ou figura de confiança.</p><p></p><p><strong>Gaste um Medo</strong> para fazer a Bruxa Coruja chamar uma criatura ao alcance de audição. O alvo deve ter sucesso em um Teste de Reação de Instinto ou se mover até o alcance Distante em direção à Bruxa Coruja.</p>"
+    },
+    "Chop Happy": {
+      "name": "Machadadas Alegres",
+      "description": "<p>Machadadas Alegres - Ação: Marque uma Fadiga para fazer um ataque padrão contra até três alvos dentro do alcance. Para cada alvo que marcar um PV, você ganha um Medo.</p>"
+    },
+    "Air Support": {
+      "name": "Apoio Aéreo",
+      "description": "<p>Apoio Aéreo - Reação: Três vezes por cena, você pode gastar um Medo para fazer um adversário dentro de alcance Distante do Rei das Sombras rerolar um ataque que errou com vantagem.</p>"
+    },
+    "Just a Statue": {
+      "name": "Apenas uma Estátua",
+      "description": "<p>Apenas uma Estátua - Passiva: Antes de fazer seu primeiro ataque em uma luta ou após ficarem Ocultos, o Gárgula é indistinguível de uma estátua normal até agir novamente ou um PJ ter sucesso em um Teste de Instinto para identificá-lo.</p>"
+    },
+    "Double Swipe": {
+      "name": "Golpe Duplo",
+      "description": "<p>Golpe Duplo - Ação: Gaste um Medo para mover o Troll até o alcance Próximo e imediatamente fazer dois ataques padrão contra um único alvo dentro do alcance Corpo a Corpo. Se ambos os ataques acertarem, combine o dano e o alvo também perde uma Esperança.</p>"
+    },
+    "Torchbearer": {
+      "name": "Portador da Tocha",
+      "description": "<p>Portador da Tocha - Passiva: A luz da mão da glória do Fazedor de Velas inspira sede de sangue em seus aliados. Enquanto este bloco de estatísticas tiver um ou mais tokens, qualquer Gorrouxo dentro de alcance Próximo ganha um bônus de +1 nas rolagens de dano.</p>"
+    },
+    "Witch Barrier": {
+      "name": "Barreira da Bruxa",
+      "description": "<p>Barreira da Bruxa - Passiva: A Bruxa Coruja é resistente a dano mágico.</p>"
+    },
+    "Relentless (3)": {
+      "name": "Implacável (3)",
+      "description": "<p>O Serafim pode ser destacado até três vezes por turno do Mestre. Gaste Medo como de costume para destacá-lo.</p>"
+    },
+    "Horde (1d4)": {
+      "name": "Horda (1d4)",
+      "description": "<p>Quando os Saqueadores marcarem metade ou mais de seus PVs, seu ataque padrão causa <strong>1d4</strong> de dano físico.</p>"
+    },
+    "Nightmare Stare": {
+      "name": "Olhar de Pesadelo",
+      "description": "<p>Olhar de Pesadelo - Ação: Gaste um Medo para fazer a Bruxa Coruja Afflitar um alvo dentro de alcance Distante com pesadelos acordados.</p><p></p><p>Até um PJ usar um movimento de tempo livre para confortar a criatura Afflitada e limpar a condição, a criatura Afflitada não pode limpar Fadiga ou PV por nenhum meio.</p>"
+    },
+    "Flail Swipe": {
+      "name": "Golpe de Mangual",
+      "description": "<p>Golpe de Mangual - Ação: O Troll balança seu mangual de crânio em um arco amplo. Marque uma Fadiga para fazer um ataque contra todos os alvos à frente do Troll dentro de alcance Muito Próximo.</p><p></p><p>Com sucesso, o Troll causa 2d10+3 em vez do dano normal. O Troll não pode usar esta ação enquanto estiver evoluído.</p>"
+    },
+    "Entice": {
+      "name": "Seduzir",
+      "description": "<p>Seduzir - Ação: Gaste um Medo para tocar uma abertura sedutora para um PJ dentro de alcance Próximo.</p><p></p><p>O PJ deve ter sucesso em um Teste de Reação de Presença (18) ou se mover para o alcance Corpo a Corpo com o Sedutor. Se o pedúnculo cefálico do Sedutor estiver em uma forma que o PJ acharia confiável, ele tem desvantagem no teste de reação.</p>"
+    },
+    "Serpent Strike": {
+      "name": "Golpe da Serpente",
+      "description": "<p>Golpe da Serpente - Reação: Quando a Quimera é atacada por um PJ dentro de alcance Muito Próximo, você pode marcar uma Fadiga para fazer um ataque contra ele.</p><p></p><p>Com sucesso, cause 4d4+10 de dano físico e Envenene-o até seu próximo descanso ou ter sucesso em um Teste de Conhecimento (20).</p><p></p><p>Enquanto Envenenado, o alvo deve rolar um d6 antes de fazer um teste de ação. Com um resultado de 3 ou menos, ele deve marcar uma Fadiga.</p>"
+    },
+    "Cerebral Suction": {
+      "name": "Sucção Cerebral",
+      "description": "<p>Sucção Cerebral - Ação: Gaste um Medo para escolher um alvo Vulnerável dentro do alcance Corpo a Corpo.</p><p></p><p>O Sacerdote agarra o alvo e tenta inserir seus tentáculos faciais nos ouvidos, nariz e boca do alvo.</p><p></p><p>O alvo deve ter sucesso em um Teste de Reação de Força ou marcar [[/r 1d6]] Fadiga.</p><p></p><p>O Sacerdote limpa um número de Fadiga igual ao número de Fadiga que o alvo marcou.</p>"
+    },
+    "Cursed Lance - Magical": {
+      "name": "Lança Amaldiçoada - Mágica"
+    },
+    "Eyestalks": {
+      "name": "Pedúnculos Oculares",
+      "description": "<p>Pedúnculos Oculares - Ação: Marque uma Fadiga para atacar um alvo dentro de alcance Distante. Com um acerto, gaste um Medo para escolher um efeito ou role um [[/r 1d10]] para um efeito aleatório. O Gobstalker usa o raio mágico correspondente:</p><p>1. Fascinar. O alvo fica Fascinado e vê o Gobstalker como um amigo. Uma criatura Fascinada não pode atacar o Gobstalker. Além disso, um PJ Fascinado deve marcar uma Fadiga ou fazer um ataque padrão contra o aliado mais próximo sempre que alguém rolar com Medo. Este efeito dura até o alvo ter sucesso em um Teste de Presença ou Conhecimento (16).</p><p>2. Corroer. O alvo sofre 2d8 de dano mágico e marca um Slot de Armadura sem receber seus benefícios (ainda pode usar armadura para reduzir o dano). Se todos os Slots de Armadura do alvo já estiverem marcados, dobre o dano.</p><p>3. Condenar. O alvo imediatamente marca todos os PVs limpos, mas pode reduzir o número de PVs marcados desta forma gastando qualquer número de Esperança. Para cada Esperança gasta desta forma, reduza em 1 o número de PVs marcados.</p><p>4. Hipnose. O alvo cai em um transe profundo semelhante ao sono e não pode realizar nenhuma ação exceto tentar acordar. O alvo acorda quando é atingido por um ataque, marca 1 ou mais PVs, ou tem sucesso em um Teste de Instinto (16) para acordar.</p><p>5. Paralisar. O alvo congela no lugar, ficando Vulnerável e Preso até marcar 2 Fadiga.</p><p>6. Petrificar. Coloque uma Contagem Regressiva de Petrificação (6) no alvo. Ela conta regressivamente quando um PJ rola com Medo. Quando é ativada, o alvo vira pedra até o Gobstalker ser derrotado ou o alvo fazer um descanso longo. Enquanto em pedra, o alvo é imune a todo dano e consciente de seus arredores, mas não pode realizar ações.</p><p>7. Empurrar. O alvo é lançado até o alcance Distante e sofre 3d6 de dano físico do que quer que ele atinja.</p><p>8. Chamuscar. O alvo sofre 2d8 de dano mágico direto.</p><p>9. Retardar. O alvo fica Vulnerável e deve marcar uma Fadiga para se mover. O alvo pode gastar 2 Esperança a qualquer momento para encerrar este efeito.</p><p>10. Aterrorizar. O alvo não pode agir exceto para fugir da batalha ou tentar se livrar do medo com um Teste de Percepção bem-sucedido (16). Além disso, sempre que você gastar Medo, o alvo deve marcar uma Fadiga. Este efeito dura até o Gobstalker ser derrotado ou o alvo fazer um descanso.</p><p></p>"
+    },
+    "Stolen Armor": {
+      "name": "Armadura Roubada",
+      "description": "<p>Armadura Roubada - Passiva: Quando o combate começa, ative uma Contagem Regressiva igual ao número de PJs. Sempre que o Troll sofrer dano, faça a contagem regressiva e reduza em 1 os PVs que o Troll marca.</p><p></p><p>Quando é ativada, o Troll evolui para um Troll das Montanhas Enraivecido (veja \"Troll das Montanhas Enraivecido - Evolução\").</p>"
+    },
+    "Breath of Fire": {
+      "name": "Bafo de Fogo",
+      "description": "<p>Bafo de Fogo - Ação: Gaste um Medo para mirar até três PJs à frente da Quimera dentro de alcance Próximo.</p><p></p><p>Todos os alvos devem fazer um Teste de Reação de Agilidade (20).</p><p></p><p>Alvos que falharem sofrem 3d12 de dano mágico. Alvos que tiverem sucesso devem marcar um Slot de Armadura ou marcar uma Fadiga.</p>"
+    },
+    "Come Back Worse": {
+      "name": "Volta Pior",
+      "description": "<p>Volta Pior - Reação: Quando um Mawb da Turba é derrotado, você pode gastar um Medo para trazê-lo de volta à vida.</p><p></p><p>Este novo Mawb da Turba ganha um bônus de +X em todas as rolagens, onde X é o número de vezes que esta habilidade foi usada por este adversário.</p>"
+    },
+    "Regeneration": {
+      "name": "Regeneração",
+      "description": "<p>Regeneração - Ação: Até três vezes por cena, gaste qualquer número de Medos para limpar um número igual de PVs.</p>"
+    },
+    "Enhanced Critical": {
+      "name": "Crítico Aprimorado",
+      "description": "<p>Crítico Aprimorado - Passiva: A rolagem de ataque do Cavaleiro conta como um sucesso crítico se o resultado no d20 for 19 ou 20.</p>"
+    },
+    "Knife Thrower": {
+      "name": "Lançador de Facas",
+      "description": "<p>Lançador de Facas - Ação: Marque uma Fadiga para fazer um ataque padrão contra um alvo dentro de alcance Distante. Se o Açougueiro fizer este ataque enquanto estiver Oculto, ele tem vantagem na rolagem de ataque.</p>"
+    },
+    "Anti-mystica-halitosis": {
+      "name": "Anti-mística-halitose",
+      "description": "<p>Anti-mística-halitose - Passiva: O bafo de um Gobstalker é tão rançoso que cria uma névoa invisível que anula efeitos mágicos.</p><p></p><p>Qualquer ataque que cause dano mágico ou crie um efeito mágico à frente do Gobstalker dentro de alcance Próximo automaticamente falha.</p><p></p><p>Esta habilidade não afeta as próprias habilidades do Gobstalker.</p>"
+    },
+    "Hand of Glory": {
+      "name": "Mão da Glória",
+      "description": "<p>Mão da Glória - Passiva: Quando o Fazedor de Velas aparece, coloque cinco tokens neste bloco de estatísticas. Remova um token sempre que o Fazedor de Velas marcar um PV.</p><p></p><p>Enquanto este bloco de estatísticas tiver um ou mais tokens, o Fazedor de Velas está Oculto.</p>"
+    },
+    "Celestial Coda": {
+      "name": "Coda Celestial",
+      "description": "<p>Coda Celestial - Reação: Contagem Regressiva (Loop 3).</p><p></p><p>A canção divina do Coro se intensifica a cada refrão. Ative a contagem regressiva quando o Coro receber o destaque pela primeira vez. Ela conta regressivamente a cada teste de ação.</p><p></p><p>Quando é ativada, coloque um token neste bloco de estatísticas. O Coro ganha um bônus em sua Dificuldade e no dano do ataque padrão igual ao número de tokens neste bloco de estatísticas.</p>"
+    },
+    "Double Lash": {
+      "name": "Chicotada Dupla",
+      "description": "<p>Chicotada Dupla - Reação: Quando o Doppelhünd faz um ataque padrão, você pode marcar uma Fadiga para fazer um ataque padrão adicional. Se ambos os ataques mirarem a mesma criatura, combine o dano.</p>"
+    },
+    "Ill Omen": {
+      "name": "Mau Presságio",
+      "description": "<p>Mau Presságio - Passiva: Quando um PJ dentro de alcance Próximo faz um teste de ação, o Dado de Medo dele ganha um bônus igual à quantidade de Medo que você tem atualmente.</p>"
+    },
+    "Rest and Digest": {
+      "name": "Descanso e Digestão",
+      "description": "<p>Descanso e Digestão - Reação: Quando o Sedutor toma o destaque com uma criatura Engolida dentro dele, ele se move para o alcance Distante dos PJs.</p>"
+    },
+    "Light and Shadow": {
+      "name": "Luz e Sombra",
+      "description": "<p>Luz e Sombra - Passiva: O Rei das Sombras ganha um bônus de +1 nas rolagens de ataque e dano enquanto estiver na sombra ou escuridão e uma penalidade de −1 nas rolagens de ataque e dano enquanto estiver em luz intensa.</p>"
+    },
+    "Spooky": {
+      "name": "Assombração",
+      "description": "<p>Assombração - Passiva: Quando o Espectro faz um ataque bem-sucedido, todos os PJs dentro de alcance Próximo devem marcar uma Fadiga e você ganha um Medo.</p>"
+    },
+    "Power Slide": {
+      "name": "Deslizamento de Poder",
+      "description": "<p>Deslizamento de Poder - Ação: Marque uma Fadiga para mover Xero até o alcance Próximo.</p><p></p><p>Todas as criaturas pelas quais Xero passar devem fazer um Teste de Reação de Força.</p><p></p><p>Alvos que falharem devem marcar 2 Slots de Armadura ou sofrer dano Grave.</p>"
+    },
+    "Enraged Mountain Troll - Evolution": {
+      "name": "Troll das Montanhas Enraivecido - Evolução",
+      "description": "<p>Troll das Montanhas Enraivecido - Evolução: O Troll ganha um bônus de +1 em sua Dificuldade e seu ataque padrão muda para o seguinte:</p><p>Garra Rasga: Muito Próximo | 1d8+1 fís</p>"
+    },
+    "Entangle": {
+      "name": "Enredar",
+      "description": "<p>Enredar - Reação: Quando um PJ se move para o alcance Corpo a Corpo, você pode gastar um Medo para fazer um ataque contra ele.</p><p></p><p>Em um ataque bem-sucedido, o alvo fica Engolido. Enquanto Engolido, uma criatura fica Presa e só pode realizar ações para atacar o Sedutor.</p><p></p><p>O Sedutor expele todas as criaturas Engolidas quando sofre dano Maior.</p>"
+    },
+    "Blink Beast": {
+      "name": "Besta Piscante",
+      "description": "<p>Besta Piscante - Passiva: Quando o combate começa, coloque um duplicado dentro de alcance Próximo do Doppelhünd.</p><p></p><p>O duplicado pode se mover quando o Doppelhünd recebe o destaque, e o Doppelhünd pode mirar inimigos com ataques como se estivesse no mesmo lugar que seu duplicado.</p><p></p><p>O Doppelhünd ocupa ambos os lugares até ser atacado, momento em que você rola [[/r 1d6]] para determinar se o ataque está mirando o Doppelhünd (o resultado é um número par) ou seu duplicado (o resultado é um número ímpar).</p><p></p><p>Ataques contra o duplicado falham automaticamente. Um ataque bem-sucedido contra o Doppelhünd dissipa o duplicado até você gastar um Medo para conjurá-lo novamente.</p>"
+    },
+    "Double Claw": {
+      "name": "Garra Dupla",
+      "description": "<p>Garra Dupla - Reação: Após a Quimera fazer um ataque padrão, você pode marcar uma Fadiga para fazer um ataque padrão adicional. Se ambos os ataques mirarem a mesma criatura, combine o dano.</p>"
+    },
+    "Telekinetic Grasp": {
+      "name": "Apreensão Telecinética",
+      "description": "<p>Apreensão Telecinética - Reação: Quando o Sacerdote tem sucesso em um ataque padrão, você pode marcar uma Fadiga para Prender o alvo até ele gastar uma Esperança para limpar esta condição.</p>"
+    },
+    "Rending Jaws": {
+      "name": "Mandíbulas Dilaceradoras",
+      "description": "<p>Mandíbulas Dilaceradoras - Passiva: Quando a Quimera faz um ataque bem-sucedido, o alvo deve marcar 2 Slots de Armadura em vez de 1 para reduzir o dano em um limiar.</p>"
+    },
+    "Swooping Strike": {
+      "name": "Ataque em Mergulho",
+      "description": "<p>Ataque em Mergulho - Ação: Escolha um ponto dentro de alcance Distante. O Gárgula se move até aquele ponto em linha reta e faz um ataque contra um alvo ao longo de seu caminho.</p>"
+    },
+    "Aural Assault": {
+      "name": "Assalto Sonoro",
+      "description": "<p>Assalto Sonoro - Ação: Gaste um Medo para fazer o Coro liberar energia divina.</p><p></p><p>Remova todos os tokens deste bloco de estatísticas (veja \"Coda Celestial\"). Para cada token removido, cause [[/r 1d12]] de dano mágico direto a todos os inimigos dentro de alcance Próximo.</p>"
+    },
+    "Gigaton Stomp": {
+      "name": "Pisão Gigatonelada",
+      "description": "<p>Pisão Gigatonelada - Ação: Gaste um Medo para fazer Xero trazer seu pé com força, criando um terremoto localizado.</p><p></p><p>Todas as criaturas dentro do alcance Corpo a Corpo sofrem 4d12 de dano físico e ficam Presas até terem sucesso em um Teste de Destreza para deslizar de baixo do pé.</p><p></p><p>Todas as criaturas fora do alcance Corpo a Corpo e dentro do alcance Próximo devem ter sucesso em um Teste de Reação de Instinto ou ser empurradas de volta até o alcance Distante. Se um alvo for empurrado, ele deve marcar um Slot de Armadura ou sofrer 4d12 de dano físico ao pousar.</p>"
+    },
+    "Spectral": {
+      "name": "Espectral",
+      "description": "<p>Espectral - Passiva: O Espectro é imune a dano físico e</p><p>fraco contra dano mágico. Além disso, o Espectro pode se mover</p><p>através de objetos sólidos.</p>"
+    },
+    "Nightmare Shroud": {
+      "name": "Manto do Pesadelo",
+      "description": "<p>Manto do Pesadelo - Ação: Gaste um Medo para fazer o Espectro se envolver em torno de um PJ dentro do alcance Corpo a Corpo, tornando-o Amortalhado até que ele ou um aliado tenha sucesso em um Teste de Força ou de Ataque (20) para desalojar o Espectro.</p><p></p><p>Se for uma rolagem de ataque, o PJ Amortalhado sofre o dano. Enquanto Amortalhado, um PJ tem desvantagem em todos os ataques e marca uma Fadiga quando rola com Medo.</p>"
+    },
+    "Horde (2d8+3)": {
+      "name": "Horda (2d8+3)",
+      "description": "<p>Quando os Saqueadores marcarem metade ou mais de seus PVs, seu ataque padrão causa 2d8+3 de dano físico.</p>"
+    },
+    "Dance in the Flames": {
+      "name": "Dança nas Chamas",
+      "description": "<p>Dança nas Chamas - Ação: Gaste um token deste bloco de estatísticas. O Fazedor de Velas conjura uma bola de fogo em um ponto dentro de alcance Distante.</p><p></p><p>Todas as criaturas dentro de alcance Muito Próximo daquele ponto devem fazer um Teste de Reação de Agilidade. Alvos que falharem sofrem 2d10 de dano mágico. Alvos que tiverem sucesso sofrem metade do dano.</p>"
+    },
+    "Visions of a Violent End": {
+      "name": "Visões de um Fim Violento",
+      "description": "<p>Visões de um Fim Violento - Reação: Quando a Bruxa Coruja é alvo de um ataque, você pode gastar um Medo para forçar o atacante a fazer um Teste de Reação de Presença.</p><p></p><p>Em uma falha, ele marca [[/r 1d4]] Fadiga enquanto sua mente é inundada com visões de sua própria morte violenta.</p>"
+    },
+    "Doppel-Dangler": {
+      "name": "Duplo Pendular",
+      "description": "<p>Duplo Pendular - Ação: O aglomerado membranoso na ponta do pedúnculo cefálico do Sedutor pode mudar de forma para qualquer forma humanoide. Marque uma Fadiga e escolha um PJ dentro de alcance Próximo.</p><p></p><p>O jogador dele deve lhe dizer qual forma seu PJ acharia mais confiável (como um parente, mentor ou amante). O pedúnculo cefálico do Sedutor se transforma nessa forma.</p>"
+    },
+    "Stone Body": {
+      "name": "Corpo de Pedra",
+      "description": "<p>Corpo de Pedra - Passiva: O Gárgula é resistente a dano físico.</p>"
+    },
+    "High Ground - Passive": {
+      "name": "Terreno Elevado - Passiva"
+    },
+    "Come Back Worse +2": {
+      "name": "Volta Pior +2"
+    },
+    "Come Back Worse +1": {
+      "name": "Volta Pior +1"
+    },
+    "Come Back Worse +3": {
+      "name": "Volta Pior +3"
+    },
+    "Celestial Coda +1": {
+      "name": "Coda Celestial +1"
+    },
+    "Celestial Coda +3": {
+      "name": "Coda Celestial +3"
+    },
+    "Celestial Coda +2": {
+      "name": "Coda Celestial +2"
+    },
+    "In Shadow": {
+      "name": "Na Sombra"
+    },
+    "In Light": {
+      "name": "Na Luz"
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "label": "Domínios",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Blood": "Sangue",
+    "Dread": "Pavor",
+    "Level 01": "Nível 1",
+    "Level 02": "Nível 2",
+    "Level 03": "Nível 3",
+    "Level 04": "Nível 4",
+    "Level 05": "Nível 5",
+    "Level 06": "Nível 6",
+    "Level 07": "Nível 7",
+    "Level 08": "Nível 8",
+    "Level 09": "Nível 9",
+    "Level 10": "Nível 10"
+  },
+  "entries": {
+    "Blood": {
+      "name": "Sangue"
+    },
+    "Dread": {
+      "name": "Pavor"
+    },
+    "Level 01": {
+      "name": "Nível 1"
+    },
+    "Level 02": {
+      "name": "Nível 2"
+    },
+    "Level 03": {
+      "name": "Nível 3"
+    },
+    "Level 04": {
+      "name": "Nível 4"
+    },
+    "Level 05": {
+      "name": "Nível 5"
+    },
+    "Level 06": {
+      "name": "Nível 6"
+    },
+    "Level 07": {
+      "name": "Nível 7"
+    },
+    "Level 08": {
+      "name": "Nível 8"
+    },
+    "Level 09": {
+      "name": "Nível 9"
+    },
+    "Level 10": {
+      "name": "Nível 10"
+    },
+    "Midnight-Touched": {
+      "name": "Tocado pela Meia-Noite"
+    },
+    "Sanguine Feast": {
+      "name": "Banquete Sanguíneo",
+      "description": "<p>Faça um Teste de Conjuração contra um adversário dentro do alcance Próximo. Em um sucesso, gaste 2 Esperança para marcar de 1 a 3 Pontos de Vida, e o alvo marca o dobro do número de Pontos de Vida que você marcou. Se isso fizer o alvo marcar seu último Ponto de Vida, você pode recuperar os Pontos de Vida que marcou ao lançar este feitiço.</p>"
+    },
+    "Vampiric Strike": {
+      "name": "Golpe Vampírico",
+      "description": "<p>Quando você faz uma rolagem de ataque bem-sucedida contra um adversário e faz com que ele marque 2 ou mais Pontos de Vida, você pode gastar Esperança para recuperar 1 Ponto de Vida ou Fadiga.</p>"
+    },
+    "Dire Strike": {
+      "name": "Golpe Terrível",
+      "description": "<p>Após um ataque bem-sucedido, você pode <strong>gastar 2 Esperança</strong> para drenar poder do alvo. Para cada Ponto de Vida que seu alvo marcou neste ataque, o Mestre perde 1 Medo.</p>"
+    },
+    "Lifeblood Talisman": {
+      "name": "Talismã do Sangue Vital",
+      "description": "<p>Marque 1 Ponto de Vida para conjurar um talismã imbuído com sua essência vital. O talismã aparece em sua mão, e quem o carrega ganha seu benefício: sempre que o portador do talismã marcar 2 ou mais Pontos de Vida, ele pode gastar Esperança para reduzir em 1 o número de Pontos de Vida marcados. O talismã desaparece se você não tiver Pontos de Vida marcados ou usar este feitiço novamente.</p>"
+    },
+    "Voice of Dread": {
+      "name": "Voz do Pavor",
+      "description": "<p>Você pode falar magicamente diretamente no ouvido de uma criatura que você pode ver. Para atormentá-la com suas palavras, faça um <strong>Teste de Conjuração</strong> contra ela. Em um sucesso, ela deve marcar 1 Fadiga e fica temporariamente <em>Vulnerável</em>.</p>"
+    },
+    "Hideous Retribution": {
+      "name": "Retribuição Hedionda",
+      "description": "<p>Quando um aliado dentro do alcance Próximo sofre dano de um alvo que você pode ver, você pode fazer um <strong>Teste de Reação de Conjuração</strong> contra esse alvo. Em um sucesso, <strong>marque 1 Fadiga</strong> para causar <strong>d6</strong> de dano mágico usando sua Proficiência.</p>"
+    },
+    "Blood Spike": {
+      "name": "Espinho de Sangue",
+      "description": "<p>Faça um Teste de Conjuração contra um alvo dentro do alcance Distante. Em um sucesso, marque 1 Fadiga para causar d10 de dano mágico ao alvo usando sua Proficiência. Em um sucesso com Esperança, o alvo também marca 1 Fadiga. Em uma rolagem com Medo, marque 1 Fadiga.</p>"
+    },
+    "Chains of Affliction": {
+      "name": "Correntes da Aflição",
+      "description": "<p>Marque <strong>2 Fadiga</strong> para temporariamente <em>Acorrentar</em> um alvo dentro do alcance Próximo. Quando uma criatura Acorrentada causa dano, o alvo de seu ataque reduz em um o número de Pontos de Vida que marcaria. Você não pode ter mais de uma criatura Acorrentada por vez.</p>"
+    },
+    "Vitality Manipulation": {
+      "name": "Manipulação de Vitalidade",
+      "description": "<p>Faça um Teste de Conjuração contra um alvo dentro do alcance Muito Próximo. Se lançar sobre um aliado, faça o teste com vantagem. Em um sucesso, marque 1 Fadiga e escolha um dos seguintes efeitos:</p><ul><li><p>O alvo fica mais calmo e recupera 1 Fadiga. Em um sucesso com Esperança, recupera 2 Fadiga.</p></li><li><p>O alvo fica mais ansioso e marca 1 Fadiga. Em um sucesso com Esperança, marca 2 Fadiga.</p></li></ul>"
+    },
+    "Blood Puppet": {
+      "name": "Marionete de Sangue",
+      "description": "<p>Faça um Teste de Conjuração contra uma criatura (viva ou morta) dentro do alcance Distante. Em um sucesso, gaste Esperança para controlar o alvo fazendo-o se mover, atacar ou ambos. Se fizer ambos, você escolhe a ordem. Se fizer a criatura se mover, ela se move para um local de sua escolha dentro do alcance Próximo dela. Se fizer a criatura atacar, faça um Teste de Conjuração contra um alvo dentro do alcance Corpo a Corpo dela. Em um sucesso, cause d10 de dano físico usando sua Proficiência.</p>"
+    },
+    "Blighting Strike": {
+      "name": "Golpe Pestilento",
+      "description": "<p>Faça um <strong>Teste de Conjuração</strong> contra um alvo dentro do alcance Distante. Em um sucesso, o alvo sofre <strong>d6+1</strong> de dano mágico usando sua Proficiência e a próxima vez que o alvo causar dano a um aliado, é reduzido à metade. Se você tiver sucesso com Medo, o alvo sofre <strong>d10+1</strong> de dano mágico usando sua Proficiência.</p>"
+    },
+    "Blood-Touched": {
+      "name": "Tocado pelo Sangue",
+      "description": "<p>Enquanto 4 ou mais das cartas de domínio em seu arsenal forem do domínio Sangue, ganhe os seguintes benefícios:</p><ul><li><p>Quando você sofrer dano suficiente para marcar 2 ou mais Pontos de Vida, ganhe Esperança.</p></li><li><p>Para cada 3 Pontos de Vida que você tiver marcados, ganhe um bônus de +1 à sua Evasão.</p></li></ul>"
+    },
+    "Brand of Castigation": {
+      "name": "Marca da Punição",
+      "description": "<p>Quando você causa dano a uma criatura, marque 1 Fadiga para gravar uma marca mágica vermelha nela. Enquanto a marca persistir, você sempre sabe a direção da criatura marcada em relação a você, e essa criatura marca 1 Fadiga cada vez que causar dano a você ou a um aliado seu dentro do alcance Muito Próximo de você. A marca desaparece quando você usar este feitiço novamente.</p>"
+    },
+    "Parasite Of The Will": {
+      "name": "Parasita da Vontade",
+      "description": "<p>Faça um Teste de Conjuração contra uma criatura dentro do alcance Muito Distante. Em um sucesso, marque 1 Ponto de Vida para conjurar um minúsculo verme de sangue mágico que se enterra no alvo. Em um sucesso com Esperança, o alvo não está ciente do verme dentro de si.</p><p></p><p>Você tem vantagem em qualquer teste de Presença contra o alvo, e sempre que ele fizer um teste, você pode gastar Esperança para dar desvantagem ao teste. Você pode destruir o verme de sangue para fazer o alvo marcar 1 Ponto de Vida.</p>"
+    },
+    "Siphon Essence": {
+      "name": "Sifonar Essência",
+      "description": "<p>Faça um <strong>Teste de Conjuração</strong> contra um alvo dentro do alcance Muito Próximo. Em um sucesso, uma vez por descanso longo, o alvo sofre <strong>d20</strong> de dano mágico usando sua Proficiência. Você recupera um número de Pontos de Vida igual ao número de Pontos de Vida que o alvo marcou com este ataque. Em um sucesso com Medo, você ganha um bônus de +1 à sua Proficiência para este ataque.</p>"
+    },
+    "Grisly Harpoon": {
+      "name": "Arpão Macabro",
+      "description": "<p>Você lança um arpão de sangue em direção a um local ou criatura dentro do alcance Distante. Se o alvo for um local, faça um Teste de Conjuração (13). Em um sucesso, marque 1 Fadiga para se puxar até uma posição dentro do alcance Corpo a Corpo dele. Se o alvo for uma criatura, faça um Teste de Conjuração contra ela. Em um sucesso, marque 1 Fadiga para causar 3d8 de dano mágico ao alvo. Você então puxa o alvo diretamente em sua direção ou se puxa diretamente em direção ao alvo, terminando dentro do alcance Corpo a Corpo um do outro.</p>"
+    },
+    "Avatar of Terror": {
+      "name": "Avatar do Terror",
+      "description": "<p><strong>Marque 1 Fadiga</strong> para se transformar em uma criatura alimentada pelo medo. Enquanto nesta forma, suas rolagens de dano ganham um bônus de <strong>+1d6</strong> para cada Medo que o Mestre tem. Além disso, ganhe Esperança quando o Mestre usar uma habilidade de Medo em um adversário dentro do alcance Próximo.<br />Você deve <strong>gastar Esperança</strong> para fazer um teste de ação enquanto nesta forma. Caso contrário, você sai desta forma.</p>"
+    },
+    "Umbra Veil": {
+      "name": "Véu das Sombras",
+      "description": "<p>Uma vez por descanso, quando você rolar com Medo, pode <strong>gastar qualquer quantidade de Esperança</strong> para colocar um número igual de fichas nesta carta, envolvendo-se em uma energia sombria. Após uma rolagem de ataque ser feita contra você, você pode gastar qualquer número de fichas para dar à rolagem de ataque uma penalidade de –1 por ficha. Em seu próximo descanso, remova todas as fichas desta carta.</p>"
+    },
+    "Darkfire": {
+      "name": "Fogo das Trevas",
+      "description": "<p>Faça um <strong>Teste de Conjuração</strong> contra todos os adversários dentro do alcance Próximo. Você pode gastar Esperança por cada um em que tiver sucesso, e eles devem fazer um <strong>Teste de Reação (14)</strong>. Em uma falha, sofrem <strong>d8+6</strong> de dano mágico usando sua Proficiência ao serem envolvidos em fogo das trevas. Em um sucesso, sofrem metade do dano.</p>"
+    },
+    "Invoke Torment": {
+      "name": "Invocar Tormento",
+      "description": "<p>Alvos com toda a sua Fadiga marcada sofrem o dobro de dano de seus ataques.<br />Além disso, quando você derrota uma criatura com toda a sua Fadiga marcada, você recupera 1 Fadiga.</p>"
+    },
+    "Mutual Suffering": {
+      "name": "Sofrimento Mútuo",
+      "description": "<p>Quando um ataque de uma criatura faz você marcar um ou mais Pontos de Vida, você pode fazer um Teste de Reação usando seu atributo de Conjuração contra a criatura. Em um sucesso, a criatura marca o mesmo número de Pontos de Vida que você, e você não pode usar este feitiço novamente até terminar um descanso.</p>"
+    },
+    "Terrify": {
+      "name": "Aterrorizar",
+      "description": "<p>Faça um <strong>Teste de Conjuração</strong> contra um alvo dentro do alcance Distante. Em um sucesso, o alvo marca <strong>1d4 Fadiga</strong> e você pode escolher fazer o alvo correr um alcance para longe de você (Próximo para Distante, Distante para Muito Distante, etc.). Em um sucesso com Medo, o alvo fica temporariamente <em>Vulnerável</em>.</p>"
+    },
+    "Shared Trauma": {
+      "name": "Trauma Compartilhado",
+      "description": "<p>Você pode transferir sofrimento de uma criatura para outra. Uma vez por descanso, marque qualquer número de Pontos de Vida em uma criatura voluntária dentro do alcance Corpo a Corpo para recuperar um número igual de Pontos de Vida em outra criatura voluntária dentro do alcance Corpo a Corpo. Você pode se escolher no lugar de qualquer uma das criaturas.</p>"
+    },
+    "Blood Bind": {
+      "name": "Vínculo de Sangue",
+      "description": "<p>Faça um Teste de Conjuração contra um alvo dentro do alcance Distante. Em um sucesso, marque 1 Fadiga ao desacelerar a vitalidade do alvo. O alvo fica temporariamente Preso e temporariamente Vulnerável. Cada vez que o alvo for colocado em destaque enquanto qualquer uma dessas condições persistir, o alvo sofre d10 de dano mágico usando sua Proficiência. O feitiço termina antecipadamente no alvo se você o usar novamente.</p>"
+    },
+    "Vital Ward": {
+      "name": "Proteção Vital",
+      "description": "<p>Marque 1 Ponto de Vida para traçar um círculo de sangue ao redor de você no alcance Muito Próximo. Enquanto no círculo, você tem resistência à sua escolha de dano físico ou mágico (escolha ao lançar o feitiço). Aliados também ganham este benefício enquanto no círculo. O círculo desaparece se você sair dele, marcar 2 ou mais Pontos de Vida, ou lançar este feitiço novamente.</p>"
+    },
+    "Crimson Adamance": {
+      "name": "Adamância Carmesim",
+      "description": "<p>Quando você marcaria seu último Ponto de Vida, gaste Esperança para marcar 1 Fadiga em vez disso.</p>"
+    },
+    "Dark Army": {
+      "name": "Exército das Trevas",
+      "description": "<p>Faça um <strong>Teste de Conjuração (14)</strong>. Uma vez por descanso longo, em um sucesso você pode invocar um grupo de demônios que cercam e se movem com você. Coloque 8 fichas nesta carta. Quando você causa dano a um alvo dentro do alcance Muito Próximo, pode gastar uma ficha para aumentá-lo em <strong>1d8</strong>. Além disso, quando você sofre dano, pode gastar uma ficha para reduzi-lo em <strong>1d8</strong>. Cada vez que você gasta uma ficha, um demônio age em seu nome e então desaparece. Remova todas as fichas desta carta em seu próximo descanso.</p>"
+    },
+    "Wailing Leap": {
+      "name": "Salto Lamentoso",
+      "description": "<p>Sempre que você causa dano mágico a um alvo, pode marcar <strong>Fadiga</strong> para se teleportar imediatamente para o Corpo a Corpo com aquela criatura.</p>"
+    },
+    "Summon Horror": {
+      "name": "Invocar Horror",
+      "description": "<p>Faça um <strong>Teste de Conjuração</strong> contra um alvo dentro do alcance Distante. Em um sucesso, gaste Esperança para invocar uma criatura do além para atacá-lo e causar <strong>d10</strong> de dano mágico usando sua Proficiência. O alvo deve ter sucesso em um <strong>Teste de Reação (12)</strong> para se fortalecer contra o horror ou marcar <strong>1d4 Fadiga</strong>. Após o ataque, a criatura se dissipa.</p>"
+    },
+    "Damnation": {
+      "name": "Condenação",
+      "description": "<p>Faça um <strong>Teste de Conjuração</strong> contra um alvo dentro do alcance Distante. Em um sucesso, <strong>marque qualquer quantidade de Fadiga</strong> para rolar um número igual de <strong>d20s</strong>, causando dano mágico igual ao resultado total. Se o alvo for derrotado como resultado deste ataque, todos os adversários dentro do alcance Distante do alvo marcam 1 Fadiga.</p>"
+    },
+    "Life Leash": {
+      "name": "Coleira da Vida",
+      "description": "<p>Gaste Esperança para permitir que você e um aliado voluntário dentro do alcance Distante redistribuam Pontos de Vida marcados entre os dois. Você então não pode mirar naquele aliado novamente com Coleira da Vida até terminar um descanso.</p>"
+    },
+    "Spectral Mist": {
+      "name": "Névoa Espectral",
+      "description": "<p><strong>Marque 1 Fadiga</strong> para invocar uma névoa estranha que torna você e quaisquer alvos dentro do alcance Próximo momentaneamente incorpóreos. Enquanto uma criatura é incorpórea, ela pode se mover através de objetos sólidos e é imune a dano físico. Uma criatura volta a ser corpórea após passar por um objeto sólido ou fazer um teste de ação. Caso contrário, este efeito cessa ao fim da cena.</p>"
+    },
+    "Weave The Flesh": {
+      "name": "Tecer a Carne",
+      "description": "<p>Uma vez por descanso, marque 1 Ponto de Vida para permitir que cada aliado dentro do alcance Próximo recupere 1 Ponto de Vida ou 1 Fadiga. Você pode marcar 1 Fadiga para permitir que esses aliados recuperem um de cada.</p>"
+    },
+    "Runic Adrenaline": {
+      "name": "Adrenalina Rúnica",
+      "description": "<p>Sua prática de magia de sangue penetrou em sua corrente sanguínea, aprimorando seus sinais vitais em momentos de urgência. Quando você rolar com vantagem, use um d8 em vez de um d6 como seu dado de vantagem se tiver 1 ou mais Pontos de Vida marcados. Após fazer um Teste de Força, Agilidade ou Destreza, você pode marcar 1 Ponto de Vida para rolar 1d8 e adicioná-lo ao resultado.</p>"
+    },
+    "Bloodbath": {
+      "name": "Banho de Sangue",
+      "description": "<p>Uma vez por descanso, gaste Esperança para desencadear ondas de sangue ao redor de você. Faça um único Teste de Conjuração contra cada adversário dentro do alcance Próximo. Em um sucesso, um alvo marca 1 Ponto de Vida e 1 Fadiga. Em uma falha, um alvo marca 1 Fadiga. Cada aliado dentro do alcance Próximo marca 1 Fadiga, mas recupera 1 Ponto de Vida.</p>"
+    },
+    "Dread-Touched": {
+      "name": "Tocado pelo Pavor",
+      "description": "<p>Quando 4 ou mais das cartas de domínio em seu arsenal forem do domínio Pavor, ganhe os seguintes benefícios:</p><ul><li><p><em>Quando você tiver sucesso com Medo, pode marcar <strong>2 Fadiga</strong> para impedir que o Mestre ganhe Medo.</em></p></li><li><p><em>Uma vez por descanso curto, ao fazer um teste de ação, você pode adicionar um bônus de +1 ao teste para cada ficha de Medo que o Mestre tiver armazenado.</em></p></li></ul>"
+    },
+    "Wall of Hunger": {
+      "name": "Muro da Fome",
+      "description": "<p>Tenha sucesso em um <strong>Teste de Conjuração (13)</strong> para criar uma parede visível de energia necrótica contorcida em linha entre dois pontos dentro do alcance Distante que dura até você marcar 1 Ponto de Vida ou lançar este feitiço novamente. Quaisquer criaturas dentro da parede quando ela aparecer ou que tentem passar por ela devem marcar <strong>2 Fadiga</strong>, depois fazer um <strong>Teste de Reação (16)</strong>. Em uma falha, ficam temporariamente <em>Presas</em> pela parede.</p>"
+    },
+    "Power Through Pain": {
+      "name": "Força através da Dor",
+      "description": "<p>Se você tiver pelo menos 1 Ponto de Vida marcado, ganha um bônus às suas rolagens de dano. O bônus é igual ao dobro do número de Pontos de Vida marcados.</p>"
+    },
+    "Savor the Anguish": {
+      "name": "Saborear a Angústia",
+      "description": "<p>Quando um adversário dentro do alcance Próximo marca Fadiga ou sofre dano Grave, você pode <strong>gastar Esperança</strong> para recuperar 1 Fadiga ou forçar o Mestre a perder 1 Medo.</p>"
+    },
+    "Burning Blood": {
+      "name": "Sangue Ardente",
+      "description": "<p>Faça um Teste de Conjuração (12). Em um sucesso, marque 1 Ponto de Vida ao conjurar uma gota de sangue, que você lança em direção a um ponto dentro do alcance Distante. Uma onda de calor preenche a área dentro do alcance Muito Próximo daquele ponto, incendiando os órgãos internos dos atingidos. Cada alvo na área marca 1 Ponto de Vida. Em um sucesso com Esperança, cada alvo na área marca 2 Pontos de Vida.</p>"
+    },
+    "Eldritch Flesh": {
+      "name": "Carne Sobrenatural",
+      "description": "<p>Você incorpora a escuridão com a qual se envolveu. Quando esta carta está em seu arsenal:</p><ul><li><p><em>Ganhe um bônus de +1 aos seus limiares de dano para cada Fadiga que você tiver marcada.</em></p></li><li><p><em>Quando você rolar com Medo, pode <strong>gastar 2 Esperança</strong> para recuperar um Slot de Armadura.</em></p></li></ul>"
+    },
+    "Glyph of Hemorrhaging": {
+      "name": "Glifo da Hemorragia",
+      "description": "<p>Faça um Teste de Conjuração contra uma criatura dentro do alcance Distante. Em um sucesso, marque 1 Ponto de Vida para gravar no alvo um glifo mágico que dura até o Mestre gastar 2 Medo para removê-lo ou você sofrer dano Grave. Sempre que o alvo marcar quaisquer Pontos de Vida enquanto o glifo permanecer, você pode marcar 1 Fadiga para fazer o alvo marcar 1 Ponto de Vida adicional.</p>"
+    }
+  }
+}

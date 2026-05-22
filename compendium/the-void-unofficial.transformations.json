@@ -1,0 +1,74 @@
+{
+  "label": "Transformações",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Demigod": {
+      "name": "Semideus"
+    },
+    "Ghost": {
+      "name": "Fantasma"
+    },
+    "Vampire": {
+      "name": "Vampiro"
+    },
+    "Shapeshifter": {
+      "name": "Metamorfo"
+    },
+    "Reanimated": {
+      "name": "Reanimado"
+    },
+    "Werewolf": {
+      "name": "Lobisomem"
+    },
+    "Demigod - Ichor of the God": {
+      "name": "Semideus - Ícor dos Deuses",
+      "description": "<p>Semideuses são criaturas cujas veias correm com o sangue dos deuses.</p><p><br /></p><p>Ícor dos Deuses: Seu dado de vantagem é sempre um d10 em vez de um d6.</p>"
+    },
+    "Demigod - Weight of Divinity": {
+      "name": "Semideus - Peso da Divindade",
+      "description": "<p>Semideuses são criaturas cujas veias correm com o sangue dos deuses.</p><p><br /></p><p>Peso da Divindade: Quando você rolar uma falha com Medo, deve marcar 1 Fadiga ou dar ao Mestre um Medo adicional.</p>"
+    },
+    "Ghost - Ephemeral": {
+      "name": "Fantasma - Efêmero",
+      "description": "<p>Fantasmas são espíritos presos entre o reino mortal e o véu da morte.</p><p><br /></p><p>Efêmero: Risque um slot de Ponto de Vida quando pegar esta carta e ao aumentar seu Grau. Quando marcar seu último Ponto de Vida, você deve escolher Glória Final como seu movimento de morte.</p>"
+    },
+    "Ghost - Spirit Form": {
+      "name": "Fantasma - Forma Espiritual",
+      "description": "<p>Fantasmas são espíritos presos entre o reino mortal e o véu da morte.</p><p><br /></p><p>Forma Espiritual: Sua forma física pode alternar entre corpórea e incorpórea. Marque 1 Fadiga para transitar para dentro e fora da sua Forma Espiritual. Enquanto em Forma Espiritual, você pode se mover através de objetos sólidos, é imune a dano físico e sofre o dobro de dano mágico. Você pode gastar 2 Esperança para atacar ou interagir fisicamente com o mundo material.</p>"
+    },
+    "Vampire - Fangs": {
+      "name": "Vampiro - Presas",
+      "description": "<p>Vampiros são criaturas mortas-vivas, com presas, que bebem o sangue dos vivos.</p><p></p><p><br /></p><p>Presas: Faça um Teste de Força para morder um alvo dentro do alcance Corpo a Corpo, causando d8 de dano físico usando sua Proficiência.</p><p>@UUID[Compendium.the-void-unofficial.weapons.Item.8LzsXmE2aEgjDPRP]{Presas}</p>"
+    },
+    "Vampire - Feed": {
+      "name": "Vampiro - Alimentar",
+      "description": "<p>Vampiros são criaturas mortas-vivas, com presas, que bebem o sangue dos vivos.</p><p></p><p><br /></p><p>Alimentar: Em um ataque bem-sucedido com Presas contra uma criatura viva, você pode marcar 1 Fadiga para se Alimentar. Coloque um número de fichas nesta carta igual ao número de Pontos de Vida que seu alvo marcou. Você pode ter no máximo 5 fichas por vez. Gaste uma ficha antes de um teste de ação para tornar seu Dado de Medo um d20 em vez disso. Quando você faz um Descanso Longo, remova uma ficha. Se não houver fichas nesta carta, todos os seus testes de ação e reação são feitos com desvantagem.</p>"
+    },
+    "Werewolf - Wolf Form": {
+      "name": "Lobisomem - Forma de Lobo",
+      "description": "<p>Lobisomens são criaturas que se transformam em lobos sobrenaturais.</p><p></p><p><br /></p><p>Forma de Lobo: Quando você marca um ou mais Pontos de Vida, também pode marcar 1 Fadiga para entrar em sua Forma de Lobo. Enquanto nesta forma, ganhe um Dado de Lobo d10 que você adiciona a todos os testes de ataque e de dano. Quando você ganharia Esperança enquanto na Forma de Lobo, você marca 1 Fadiga em vez disso.</p>"
+    },
+    "Werewolf - Frenzy": {
+      "name": "Lobisomem - Frenesi",
+      "description": "<p>Lobisomens são criaturas que se transformam em lobos sobrenaturais.</p><p></p><p><br /></p><p>Frenesi: Quando você marca sua última Fadiga enquanto na Forma de Lobo, você entra em Frenesi. Role um número de d20s igual ao seu Grau e automaticamente cause essa quantidade de dano físico a todas as criaturas dentro do alcance Muito Próximo. Em seguida, saia da Forma de Lobo.</p>"
+    },
+    "Shapeshifter - Change Shape": {
+      "name": "Metamorfo - Mudar de Forma",
+      "description": "<p>Metamorfos são criaturas que podem mudar sua forma física.</p><p><br /></p><p>Mudar de Forma: Durante um descanso longo, você pode gastar um movimento de tempo livre para trocar sua ancestralidade atual por outra. Quando fizer isso, descreva como sua aparência muda.</p>"
+    },
+    "Shapeshifter - Only Skin Deep": {
+      "name": "Metamorfo - Apenas Superficial",
+      "description": "<p>Metamorfos são criaturas que podem mudar sua forma física.</p><p><br /></p><p>Apenas Superficial: Quando você Muda de Forma, só obtém o benefício de uma das habilidades da ancestralidade, que você seleciona ao escolher a ancestralidade. Você pode gastar um movimento de tempo livre para trocar qual habilidade da ancestralidade você aproveita.</p>"
+    },
+    "Reanimated - Stitch Up": {
+      "name": "Reanimado - Costurar",
+      "description": "<p>Reanimados são cadáveres que foram trazidos de volta à vida.</p><p><br /></p><p>Costurar: Durante um descanso, você só pode recuperar Pontos de Vida se tiver acesso a restos de uma criatura recentemente morta. Descreva como usar esse material afeta sua aparência. Você não pode recuperar Pontos de Vida por nenhum meio, exceto um movimento de tempo livre ou o movimento de morte Arriscar Tudo.</p>"
+    },
+    "Reanimated - Corpse": {
+      "name": "Reanimado - Cadáver",
+      "description": "<p>Reanimados são cadáveres que foram trazidos de volta à vida.</p><p><br /></p><p>Cadáver: Quando você Arrisca Tudo em um movimento de morte, se falhar, pode marcar permanentemente um Ponto de Vida para ter sucesso em vez disso. Quando fizer isso, você ainda usa o valor do Dado de Esperança para recuperar Pontos de Vida e Fadiga.</p>"
+    }
+  }
+}

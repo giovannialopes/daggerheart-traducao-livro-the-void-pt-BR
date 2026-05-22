@@ -1,0 +1,456 @@
+{
+  "label": "Adversários e Ambientes - O Void",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Adversaries - The Void": "Adversários - O Void",
+    "Environments - The Void": "Ambientes - O Void",
+    "Tier 1": "Grau 1",
+    "Tier 2": "Grau 2",
+    "Tier 3": "Grau 3",
+    "Tier 4": "Grau 4"
+  },
+  "entries": {
+    "Owl Witch": {
+      "name": "Bruxa Coruja",
+      "description": "<p>Uma enorme coruja-da-torre vingativa com uma envergadura de 4,5 metros e um rosto humano</p>"
+    },
+    "Hallowed Choir": {
+      "name": "Coro Sagrado",
+      "description": "<p>Uma hoste celestial de humanoides alados cujo canto evoca lágrimas de reverência religiosa</p>"
+    },
+    "Dragon Knight": {
+      "name": "Cavaleiro Dragão",
+      "description": "<p>Um cavaleiro vestido com armadura de escamas de dragão e um elmo em forma de cabeça de dragão.</p>"
+    },
+    "Rabble Mawb": {
+      "name": "Horda Devorabarulho",
+      "description": "<p>Estas bolas de pelo, membros e dentes do tamanho de um gato viajam em uma \"horda\" de cerca de uma dúzia.</p>"
+    },
+    "Gargoyle": {
+      "name": "Gárgula",
+      "description": "<p>Uma estátua magicamente animada na forma de uma besta ou demônio aterrorizante</p>"
+    },
+    "Convergence, The City Of Portals": {
+      "name": "Convergência, A Cidade dos Portais",
+      "description": "<p>Uma metrópole vasta no nexo da criação, onde figuras influentes de todos os reinos se reúnem.</p>"
+    },
+    "Chimera": {
+      "name": "Quimera",
+      "description": "<p>Um monstro gigante que cospe fogo com cabeça de leão, corpo de cabra e cauda de serpente</p>"
+    },
+    "Doppelhünd": {
+      "name": "Doppelhünd",
+      "description": "<p>Um feroz cão do inferno mágico de seis patas com olhos vermelhos brilhantes e dois longos tentáculos dentados de lula. Eles confundem os inimigos conjurando um duplicata ilusória de si mesmos.</p>"
+    },
+    "Enraged Mountain Troll - Evolution": {
+      "name": "Troll da Montanha Enfurecido - Evolução",
+      "description": "<p>Troll da Montanha Enfurecido - Evolução: O Troll recebe um bônus de +1 à sua Dificuldade e seu ataque padrão muda para o seguinte: </p><p>Golpe de Garra: Muito Próximo | 1d8+1 fís</p>"
+    },
+    "Whisper Wraith": {
+      "name": "Espectro Sussurrante",
+      "description": "<p>Os ecos de promessas quebradas e sonhos não realizados, estes espectros aparecem como mantos translúcidos flutuantes de veludo preto esfarrapado em uma forma vagamente humanoide.</p>"
+    },
+    "Lamplight Beguiler": {
+      "name": "Ilusionista da Luz da Lamparina",
+      "description": "<p>Uma enorme criatura marinha que atrai presas desprevenidas para seu alcance de ataque com seu pedúnculo cefálico pendente e metamórfico</p>"
+    },
+    "Grand Feast": {
+      "name": "Grande Banquete",
+      "description": "<p>Uma celebração comunitária com muito mais bebida, comida e diversão do que o necessário.</p>"
+    },
+    "Xero, Castle Killer": {
+      "name": "Xero, Destruidor de Castelos",
+      "description": "<p>Um réptil bípede do tamanho de um castelo</p>"
+    },
+    "Crystal Wasteland": {
+      "name": "Ermos de Cristal",
+      "description": "<p>Uma paisagem árida e alienígena que brilha com torres de cristal cintilante</p>"
+    },
+    "Cephilith Priest": {
+      "name": "Sacerdote Cefilita",
+      "description": "<p>Um humanoide de cabeça de lula vestindo mantos, oriundo dos Reinos Exteriores</p>"
+    },
+    "Redcap Candlemaker": {
+      "name": "Fabricante de Velas Barrete Vermelho",
+      "description": "<p>Um líder de culto pálido e esquelético segurando uma vara de dois metros e um quarto com uma vela feita da mão de um enforcado em seu topo.</p>"
+    },
+    "Gobstalker": {
+      "name": "Caçador Goblin",
+      "description": "<p>Uma bola carnuda flutuante repleta de dentes, com dez antenas articuladas emergindo de sua coroa, cada uma carregando um olho de cor diferente</p>"
+    },
+    "Redcap Butcher": {
+      "name": "Açougueiro Barrete Vermelho",
+      "description": "<p>Uma criatura feérica do tamanho de um halfling que esquarteja suas vítimas com uma variedade de instrumentos cortantes.</p>"
+    },
+    "Mountain Troll": {
+      "name": "Troll da Montanha",
+      "description": "<p>Um gigante horrível e retorcido nascido de uma rocha, vestindo armadura roubada e um cinto de cabeças decepadas</p>"
+    },
+    "Heist": {
+      "name": "Assalto",
+      "description": "<p>O grupo deve conseguir acesso a um local oculto ou bem protegido para adquirir as informações ou itens guardados no interior</p>"
+    },
+    "Fellmounted Shadow King": {
+      "name": "Rei das Sombras Montado no Abismo",
+      "description": "<p>A sombra de um governante esquecido, amaldiçoado a patrulhar os céus montado em uma enguia alada a serviço de um demiurgo maligno.</p>"
+    },
+    "Horde": {
+      "name": "Horda",
+      "description": ""
+    },
+    "Visions of a Violent End": {
+      "name": "Visões de um Fim Violento",
+      "description": "<p>Visões de um Fim Violento - Reação: Quando a Bruxa Coruja é alvo de um ataque, você pode gastar um Medo para forçar o atacante a fazer um Teste de Reação de Presença. </p><p></p><p>Em caso de falha, eles marcam [[/r 1d4]] Fadiga enquanto sua mente é inundada com visões de sua própria morte violenta.</p>"
+    },
+    "Witch Barrier": {
+      "name": "Barreira da Bruxa",
+      "description": "<p>Barreira da Bruxa - Passivo: A Bruxa Coruja é resistente a dano mágico.</p>"
+    },
+    "Nightmare Stare": {
+      "name": "Olhar de Pesadelo",
+      "description": "<p>Olhar de Pesadelo - Ação: Gaste um Medo para fazer a Bruxa Coruja Afligir um alvo dentro do alcance Distante com pesadelos durante a vigília. </p><p></p><p>Até que um PC use um movimento de Tempo Livre para confortar a criatura Afligida e limpar a condição, a criatura Afligida não pode recuperar Fadiga ou PV por nenhum meio.</p>"
+    },
+    "Alluring Voice": {
+      "name": "Voz Sedutora",
+      "description": "<p>Voz Sedutora - Ação: A Bruxa Coruja pode imitar perfeitamente a voz de um ente querido ou figura de confiança. </p><p></p><p><strong>Gaste um Medo</strong> para fazer a Bruxa Coruja chamar uma criatura ao alcance de audição. O alvo deve ter sucesso em um Teste de Reação de Instinto ou se mover até o alcance Distante em direção à Bruxa Coruja.</p>"
+    },
+    "Ill Omen": {
+      "name": "Mau Presságio",
+      "description": "<p>Mau Presságio - Passivo: Quando um PC dentro do alcance Próximo faz um teste de ação, seu Dado do Medo recebe um bônus igual à quantidade de Medo que você possui atualmente.</p>"
+    },
+    "Celestial Coda": {
+      "name": "Coda Celestial",
+      "description": "<p>Coda Celestial - Reação: Contagem Regressiva (Ciclo 3).</p><p></p><p>A canção divina do Coro cresce com cada refrão. Ative a contagem regressiva quando o Coro for colocado em destaque pela primeira vez. Ela diminui a cada teste de ação.</p><p></p><p>Quando é acionada, coloque um marcador neste bloco de estatísticas. O Coro recebe um bônus à sua Dificuldade e ao dano de ataque padrão igual ao número de marcadores neste bloco de estatísticas.</p>"
+    },
+    "Horde (2d8+3)": {
+      "name": "Horda (2d8+3)",
+      "description": "<p>Quando os Invasores marcaram metade ou mais de seus PV, seu ataque padrão causa 2d8+3 dano físico em vez disso.</p>"
+    },
+    "Aural Assault": {
+      "name": "Assalto Sonoro",
+      "description": "<p>Assalto Sonoro - Ação: Gaste um Medo para fazer o Coro desencadear energia divina. </p><p></p><p>Remova todos os marcadores deste bloco de estatísticas (veja \"Coda Celestial\"). Para cada marcador removido, cause [[/r 1d12]] dano mágico direto a todos os inimigos dentro do alcance Próximo.</p>"
+    },
+    "Enhanced Critical": {
+      "name": "Crítico Aprimorado",
+      "description": "<p>Crítico Aprimorado - Passivo: O teste de ataque do Cavaleiro conta como sucesso crítico se o resultado no d20 for 19 ou 20.</p>"
+    },
+    "Leaping Strike": {
+      "name": "Golpe Saltitante",
+      "description": "<p>Golpe Saltitante - Ação: Marque uma Fadiga e escolha um alvo dentro do alcance Distante.</p><p></p><p>O Cavaleiro se move para o alcance Corpo a Corpo do alvo e faz um ataque padrão contra ele. </p><p></p><p>Em caso de sucesso, receba um bônus de +1d12 ao teste de dano e o alvo deve marcar um Slot de Armadura sem receber seus benefícios (ele ainda pode usar a armadura para reduzir o dano).</p>"
+    },
+    "High Ground": {
+      "name": "Terreno Elevado",
+      "description": "<p>Terreno Elevado - Passivo: O Cavaleiro recebe um bônus de +2 aos testes de ataque</p><p>ao atacar um alvo de cima.</p>"
+    },
+    "Come Back Worse": {
+      "name": "Retorna Pior",
+      "description": "<p>Retorna Pior - Reação: Quando uma Horda Devorabarulho é derrotada, você pode gastar um Medo para trazê-la de volta à vida. </p><p></p><p>Esta nova Horda Devorabarulho recebe um bônus de +X a todos os testes, onde X é o número de vezes que esta habilidade foi usada por este adversário.</p>"
+    },
+    "Horde (1d4)": {
+      "name": "Horda (1d4)",
+      "description": "<p>Quando os Invasores marcaram metade ou mais de seus PV, seu ataque padrão causa <strong>1d4</strong> dano físico em vez disso.</p>"
+    },
+    "Swooping Strike": {
+      "name": "Golpe em Mergulho",
+      "description": "<p>Golpe em Mergulho - Ação: Escolha um ponto dentro do alcance Distante. A Gárgula se move até aquele ponto em linha reta e faz um ataque contra um alvo ao longo de seu caminho.</p>"
+    },
+    "Stone Body": {
+      "name": "Corpo de Pedra",
+      "description": "<p>Corpo de Pedra - Passivo: A Gárgula é resistente a dano físico</p>"
+    },
+    "Just a Statue": {
+      "name": "Apenas uma Estátua",
+      "description": "<p>Apenas uma Estátua - Passivo: Antes de fazer seu primeiro ataque em uma luta ou após ficar Oculta, a Gárgula é indistinguível de uma estátua normal até que ela aja novamente ou um PC tenha sucesso em um Teste de Instinto para identificá-la.</p>"
+    },
+    "Everything Everywhere All at Once - Passive": {
+      "name": "Tudo em Todo Lugar ao Mesmo Tempo - Passivo",
+      "description": "<p>Tudo em Todo Lugar ao Mesmo Tempo - Passivo: Esta cidade tem a solução para qualquer problema, se você souber encontrá-la. Um PC em busca de um item específico com propriedades maravilhosas pode fazer um Teste de Instinto ou Presença para encontrá-lo no mercado pandimensional da cidade.</p><ul><li><p>Sucesso Crítico: O PC encontra o item perfeito, e o comerciante que o possui quer apenas algo que o PC considera irrelevante em troca. </p></li><li><p>Sucesso com Esperança: O PC encontra o item perfeito, e pode trocar algo de valor igual por ele. </p></li><li><p>Sucesso com Medo: O PC encontra o item perfeito, mas o comerciante que o possui só vai trocá-lo por algo que o grupo não pode lhe dar... ainda. </p></li><li><p>Qualquer Falha: O PC deve marcar uma Fadiga enquanto vai atrás de uma pista falsa e acaba de mãos vazias. O PC pode marcar uma Fadiga adicional para mudar este resultado para um sucesso com Medo. </p></li></ul><p>Quem tem o item que o grupo precisa? O que eles querem em troca?</p>"
+    },
+    "Into the Multiverse - Passive": {
+      "name": "Para o Multiverso - Passivo",
+      "description": "<p>Para o Multiverso - Passivo: A cidade de Convergência tem um portal ou porta para cada plano de existência. </p><p></p><p></p><p>Para onde (ou quando) o grupo quer ir? Onde esse portal está localizado — e quem controla aquela área?</p>"
+    },
+    "An Offer You Can't Refuse - Action": {
+      "name": "Uma Oferta que Você Não Pode Recusar - Ação",
+      "description": "<p>Uma Oferta que Você Não Pode Recusar - Ação: Convergência abriga uma tênue rede de facções rivais. Gaste um Medo para fazer uma delas apresentar ao grupo uma solução fácil para um problema difícil em troca de sua lealdade. Se o grupo recusar, cada PC deve marcar uma Fadiga e não pode mais recorrer àquela facção em busca de ajuda no futuro. </p><p></p><p></p><p>Qual facção oferece seu apoio ao grupo? Contra quem eles querem que o grupo aja?</p>"
+    },
+    "Impossibilities Abound - Passive": {
+      "name": "Impossibilidades Abundam - Passivo",
+      "description": "<p>Impossibilidades Abundam - Passivo: Convergência é um nexo de deuses, monstros, alienígenas e todo tipo de viajantes dimensionais. Como a vida mortal geralmente está abaixo das preocupações desses seres, os PCs têm Desvantagem nos testes de ação para influenciá-los, a menos que tenham vantagem sobre eles ou saibam o que o NPC se importa. </p><p></p><p></p><p>Que tipo de ser atualmente tem influência na cidade? Que costumes estranhos eles praticam? Qual PC fica mais confuso ou ofendido com eles — e qual PC adota esses costumes como seus?</p>"
+    },
+    "Don't Make Waves - Passive": {
+      "name": "Não Cause Problemas - Passivo",
+      "description": "<p>Não Cause Problemas - Passivo: Contagem Regressiva (6) — Como tudo é possível em Convergência, a cidade mantém uma burocracia labiríntica que emite e aplica normas sobre todas as trocas e interações entre os Reinos. </p><p></p><p>Quando o grupo chega a Convergência, inicie uma Contagem Regressiva (6) que diminui sempre que um PC faz algo que perturba o delicado equilíbrio político da cidade. Quando ela é acionada, os PCs tornam-se Procurados até que limpem seus nomes com as autoridades. Quando um PC Procurado rola com Medo, você pode invocar [[/r 1d4]] Executores Temporais que aparecem dentro do alcance Muito Próximo, imediatamente entram em destaque e tentam deter o grupo. </p><p></p><p></p><p>O que o grupo fez (ou o que planeja fazer) que chama a atenção e a ira do Consórcio? Como eles podem resolver o problema que causaram?</p>"
+    },
+    "Breath of Fire": {
+      "name": "Bafo de Fogo",
+      "description": "<p>Bafo de Fogo - Ação: Gaste um Medo para atingir até três PCs à frente da Quimera dentro do alcance Próximo.</p><p></p><p>Todos os alvos devem fazer um Teste de Reação de Agilidade (20).</p><p></p><p>Alvos que falham recebem 3d12 dano mágico. Alvos que têm sucesso devem marcar um Slot de Armadura ou marcar uma Fadiga.</p>"
+    },
+    "Double Claw": {
+      "name": "Garra Dupla",
+      "description": "<p>Garra Dupla - Reação: Após a Quimera fazer um ataque padrão, você pode marcar uma Fadiga para fazer um ataque padrão adicional. Se ambos os ataques atingirem a mesma criatura, combine o dano.</p>"
+    },
+    "Rending Jaws": {
+      "name": "Mandíbulas Dilacerantes",
+      "description": "<p>Mandíbulas Dilacerantes - Passivo: Quando a Quimera faz um ataque bem-sucedido, o alvo deve marcar 2 Slots de Armadura em vez de 1 para reduzir o dano em um limiar.</p>"
+    },
+    "Serpent Strike": {
+      "name": "Bote da Serpente",
+      "description": "<p>Bote da Serpente - Reação: Quando a Quimera é atacada por um PC dentro do alcance Muito Próximo, você pode marcar uma Fadiga para fazer um ataque contra ele. </p><p></p><p>Em caso de sucesso, cause 4d4+10 dano físico e envenene-o até o próximo descanso ou até que ele tenha sucesso em um Teste de Conhecimento (20). </p><p></p><p>Enquanto Envenenado, o alvo deve rolar 1d6 antes de fazer um teste de ação. Em um resultado de 3 ou menor, ele deve marcar uma Fadiga.</p>"
+    },
+    "Blink Beast": {
+      "name": "Besta Piscante",
+      "description": "<p>Besta Piscante - Passivo: Quando o combate começa, coloque uma duplicata dentro do alcance Próximo do Doppelhünd. </p><p></p><p>A duplicata pode se mover quando o Doppelhünd estiver em destaque, e o Doppelhünd pode atingir inimigos com ataques como se estivesse no mesmo lugar que sua duplicata. </p><p></p><p>O Doppelhünd ocupa ambos os lugares até ser atacado, momento em que você rola [[/r 1d6]] para determinar se o ataque está mirando o Doppelhünd (o resultado é um número par) ou sua duplicata (o resultado é um número ímpar). </p><p></p><p>Ataques contra a duplicata falham automaticamente. Um ataque bem-sucedido contra o Doppelhünd desfaz a duplicata até que você gaste um Medo para conjurá-la novamente.</p>"
+    },
+    "Double Lash": {
+      "name": "Chicotada Dupla",
+      "description": "<p>Chicotada Dupla - Reação: Quando o Doppelhünd faz um ataque padrão, você pode marcar uma Fadiga para fazer um ataque padrão adicional. Se ambos os ataques atingirem a mesma criatura, combine o dano.</p>"
+    },
+    "Double Swipe": {
+      "name": "Golpe Duplo",
+      "description": "<p>Golpe Duplo - Ação: Gaste um Medo para mover o Troll até o alcance Próximo e imediatamente faça dois ataques padrões contra um único alvo dentro do alcance Corpo a Corpo. Se ambos os ataques acertarem, combine o dano e o alvo também perde uma Esperança.</p>"
+    },
+    "Stolen Armor": {
+      "name": "Armadura Roubada",
+      "description": "<p>Armadura Roubada - Passivo: Quando o combate começa, ative uma Contagem Regressiva igual ao número de PCs. Sempre que o Troll receber dano, diminua a contagem regressiva e reduza o PV que o Troll marca em 1. </p><p></p><p>Quando ela é acionada, o Troll evolui para um Troll da Montanha Enfurecido (veja \"Troll da Montanha Enfurecido - Evolução\").</p>"
+    },
+    "Relentless (3)": {
+      "name": "Implacável (3)",
+      "description": "<p>O Serafim pode receber destaque até três vezes por turno do Mestre. Gaste Medo normalmente para colocá-lo em destaque.</p>"
+    },
+    "Flail Swipe": {
+      "name": "Raspagem do Mangual",
+      "description": "<p>Raspagem do Mangual - Ação: O Troll gira seu mangual de crânios em um amplo arco. Marque uma Fadiga para fazer um ataque contra todos os alvos à frente do Troll dentro do alcance Muito Próximo. </p><p></p><p>Em caso de sucesso, o Troll causa 2d10+3 em vez de seu dano normal. O Troll não pode usar esta ação enquanto evoluído.</p>"
+    },
+    "Spooky": {
+      "name": "Assustador",
+      "description": "<p>Assustador - Passivo: Quando o Espectro faz um ataque bem-sucedido, todos os PCs dentro do alcance Próximo devem marcar uma Fadiga e você ganha um Medo.</p>"
+    },
+    "Nightmare Shroud": {
+      "name": "Manto de Pesadelo",
+      "description": "<p>Manto de Pesadelo - Ação: Gaste um Medo para fazer o Espectro se enrolar em torno de um PC dentro do alcance Corpo a Corpo, deixando-o Envolto até que ele ou um aliado tenha sucesso em um Teste de Força ou Ataque (20) para expulsar o Espectro. </p><p></p><p>Se for um teste de ataque, o PC Envolto recebe o dano. Enquanto Envolto, um PC tem Desvantagem em todos os ataques e marca uma Fadiga quando rola com Medo.</p>"
+    },
+    "Spectral": {
+      "name": "Espectral",
+      "description": "<p>Espectral - Passivo: O Espectro é imune a dano físico e</p><p>fraco contra dano mágico. Além disso, o Espectro pode se mover</p><p>através de objetos sólidos.</p>"
+    },
+    "Entice": {
+      "name": "Seduzir",
+      "description": "<p>Seduzir - Ação: Gaste um Medo para tocar uma abertura sedutora para um PC dentro do alcance Próximo. </p><p></p><p>O PC deve ter sucesso em um Teste de Reação de Presença (18) ou se mover para o alcance Corpo a Corpo com o Ilusionista. Se o pedúnculo cefálico do Ilusionista estiver em uma forma que o PC consideraria confiável, ele tem Desvantagem no teste de reação.</p>"
+    },
+    "Rest and Digest": {
+      "name": "Descansar e Digerir",
+      "description": "<p>Descansar e Digerir - Reação: Quando o Ilusionista entra em destaque com uma criatura Engolida dentro dele, ele se move para o alcance Distante longe dos PCs</p>"
+    },
+    "Entangle": {
+      "name": "Enredar",
+      "description": "<p>Enredar - Reação: Quando um PC se move dentro do alcance Corpo a Corpo, você pode gastar um Medo para fazer um ataque contra ele. </p><p></p><p>Em um ataque bem-sucedido, o alvo é Engolido. Enquanto Engolido, uma criatura fica Presa e só pode fazer ações para atacar o Ilusionista. </p><p></p><p>O Ilusionista expele todas as criaturas Engolidas quando recebe Dano Grave.</p>"
+    },
+    "Doppel-Dangler": {
+      "name": "Doppel-Pendão",
+      "description": "<p>Doppel-Pendão - Ação: O aglomerado membranoso na extremidade do pedúnculo cefálico do Ilusionista pode metamorfosear-se em qualquer forma humanoide. Marque uma Fadiga e escolha um PC dentro do alcance Próximo.</p><p></p><p>Seu jogador deve lhe dizer qual forma seu PC consideraria mais confiável (como um parente, mentor ou amante). O pedúnculo cefálico do Ilusionista se transforma nessa forma.</p>"
+    },
+    "There's Always That One… - Action": {
+      "name": "Sempre Tem Aquele… - Ação",
+      "description": "<p>Sempre Tem Aquele… - Ação: Gaste um Medo para Prender um PC em conversa com a pessoa mais desagradável da festa até que ele tenha sucesso em um teste de ação para se livrar desse buraco negro social. </p><p></p><p>Um PC Preso não pode fazer nenhum outro teste de ação, exceto para tentar remover essa condição. </p><p></p><p>Quando um PC Preso falha em um teste de ação, ele deve marcar uma Fadiga. </p><p></p><p></p><p>O que torna esse chato tão desagradável? Sobre o que o PC se importa que o chato constantemente diminui ou ignora? Sobre o que de chato ou horrível o chato não consegue parar de falar?</p>"
+    },
+    "Loose Lips and Fast Friends - Passive": {
+      "name": "Língua Solta e Amigos Rápidos - Passivo",
+      "description": "<p>Língua Solta e Amigos Rápidos - Passivo: Todo mundo está aqui para se divertir. </p><p></p><p>PCs têm Vantagem nos testes de Presença para socializar com outros foliões. </p><p></p><p></p><p>O que todo mundo está celebrando? Onde é a festa? Quem está pagando a conta?</p>"
+    },
+    "Last Call - Reaction": {
+      "name": "Última Rodada - Reação",
+      "description": "<p>Última Rodada - Reação: Após uma longa noite, os foliões começam a ir embora. </p><p></p><p>Quando o banquete termina, todos os PCs que participaram das festividades limpam toda a Fadiga e ganham uma Esperança. </p><p></p><p>Além disso, cada Convidado Honrado limpa todos os PV e ganha uma Esperança adicional, depois limpa a condição. PCs que exageraram devem ter sucesso em um Teste de Reação de Força ou ficam de Ressaca até o próximo descanso. </p><p></p><p>PCs de Ressaca recebem uma penalidade de −1 em todos os testes de ação. </p><p></p><p></p><p>Que histórias malucas os PCs compartilham uns com os outros ao sair da festa? Quem os PCs veem inesperadamente se acariciando depois?</p>"
+    },
+    "Are You Not Entertained? - Action": {
+      "name": "Não Estão Entretidos? - Ação",
+      "description": "<p>Não Estão Entretidos? - Ação: Gaste o destaque para fazer o anfitrião do banquete dar início à parte de entretenimento da noite. </p><p></p><p>Todos os PCs podem fazer um teste de ação para iniciar uma performance, competição ou outra diversão descontraída. Cada PC que tiver sucesso torna-se um Convidado Honrado. Até o grande banquete terminar, um Convidado Honrado pode reivindicar um benefício do anfitrião e então limpar a condição. </p><p></p><p></p><p>O que o anfitrião mais quer ver ou ouvir? O que ele pode oferecer aos PCs em troca?</p>"
+    },
+    "Relentless (X)": {
+      "name": "Implacável (X)",
+      "description": "<p>Implacável (X) - Passivo: Xero pode receber destaque até X vezes por turno do Mestre, onde X é o número de PCs na cena. Gaste Medo normalmente para colocá-lo em destaque</p>"
+    },
+    "Power Slide": {
+      "name": "Deslizamento de Poder",
+      "description": "<p>Deslizamento de Poder - Ação: Marque uma Fadiga para mover Xero até o alcance Próximo. </p><p></p><p>Todas as criaturas pelas quais Xero passa devem fazer um Teste de Reação de Força. </p><p></p><p>Alvos que falham devem marcar 2 Slots de Armadura ou receber Dano Grave.</p>"
+    },
+    "Collateral Damage": {
+      "name": "Dano Colateral",
+      "description": "<p>Dano Colateral - Passivo: O movimento de Xero não pode ser impedido, obstruído ou afetado por nenhum efeito externo. </p><p></p><p>Todo terreno destrutível ou obstáculos no caminho de Xero são destruídos quando Xero passa por eles.</p>"
+    },
+    "Regeneration": {
+      "name": "Regeneração",
+      "description": "<p>Regeneração - Ação: Até três vezes por cena, gaste qualquer quantidade de Medo para limpar um número igual de PV.</p>"
+    },
+    "Radioactive Breath": {
+      "name": "Bafo Radioativo",
+      "description": "<p>Bafo Radioativo - Ação: Gaste um Medo para fazer Xero carregar um feixe nuclear e coloque um marcador neste bloco de estatísticas. </p><p></p><p>Na próxima vez que Xero receber destaque, você pode gastar este marcador e desencadear o feixe. </p><p></p><p>Trace uma linha com largura de alcance Próximo de Xero até a borda do campo de batalha. </p><p></p><p>Todos os PCs dentro deste caminho devem fazer um Teste de Reação de Agilidade. </p><p></p><p>Alvos que falham recebem 4d12+12 dano mágico direto. </p><p></p><p>Alvos que têm sucesso recebem metade do dano. </p><p></p><p>Xero não pode usar esta ação novamente até receber Dano Grave.</p>"
+    },
+    "Gigaton Stomp": {
+      "name": "Pisada de Gigatonelada",
+      "description": "<p>Pisada de Gigatonelada - Ação: Gaste um Medo para fazer Xero bater o pé com força, criando um terremoto localizado. </p><p></p><p>Todas as criaturas dentro do alcance Corpo a Corpo recebem 4d12 dano físico e ficam Presas até que tenham sucesso em um Teste de Destreza para escorregar de baixo do pé. </p><p></p><p>Todas as criaturas fora do alcance Corpo a Corpo e dentro do alcance Próximo devem ter sucesso em um Teste de Reação de Instinto ou ser jogadas para até o alcance Distante. Se um alvo for jogado para trás, ele deve marcar um Slot de Armadura ou receber 4d12 dano físico ao cair</p>"
+    },
+    "Psychic Shuffle - Reaction": {
+      "name": "Embaralhamento Psíquico - Reação",
+      "description": "<p>Embaralhamento Psíquico - Reação: Quando os PCs fazem um Descanso Longo, você pode gastar um Medo para trocar suas psiques. Recolha todas as fichas dos jogadores, depois embaralhe e redistribua-as aleatoriamente. </p><p></p><p>Cada ficha vem com os cartões de Domínio daquele PC e os auxiliares do jogador. Um PC pode recuperar sua psique com um Teste de Conhecimento bem-sucedido, momento em que ele troca fichas com o jogador que tem sua ficha original. </p><p></p><p></p><p>Como é estar na pele de outra pessoa? Se você pudesse escolher permanecer como eles de uma forma, qual seria?</p>"
+    },
+    "Gravitational Anomalies - Action": {
+      "name": "Anomalias Gravitacionais - Ação",
+      "description": "<p>Anomalias Gravitacionais - Ação: Fenômenos estranhos e localizados pontuam a paisagem, distorcendo distância e direção.</p><p></p><p>Gaste um Medo para alterar a gravidade em um ponto de sua escolha. Todos os alvos dentro do alcance Próximo daquele ponto devem fazer um Teste de Reação de Conhecimento para calcular suas novas trajetórias.</p><p></p><p>Alvos que falham recebem 3d8+4 dano físico ao serem arremessados para cima e para longe. Alvos que têm sucesso devem marcar uma Fadiga ou receber metade do dano.</p><p></p><p></p><p>Como parece quando seu corpo e mente lutam para restabelecer o equilíbrio? Há alguma forma de usar isso a seu favor?</p>"
+    },
+    "Harmonic Resonance - Passive": {
+      "name": "Ressonância Harmônica - Passivo",
+      "description": "<p>Ressonância Harmônica - Passivo: Os cristais aqui reverberam com energia mágica. </p><p></p><p>Um PC pode fazer um movimento de Tempo Livre para tentar se Sintonizar com o ambiente com um Teste de Conjuração bem-sucedido. </p><p></p><p>Testes de Conjuração feitos por um PC Sintonizado dentro dos Ermos de Cristal têm Vantagem. </p><p></p><p>Um PC limpa a condição quando deixa os ermos. </p><p></p><p></p><p>Como a sintonização com este lugar altera sua experiência sensorial dele? Que som ou canção da sua infância este lugar evoca?</p>"
+    },
+    "Razor-Sharp Terrain - Reaction": {
+      "name": "Terreno Afiado como Navalha - Reação",
+      "description": "<p>Terreno Afiado como Navalha - Reação: Quando um PC falha em um teste para navegar pelos ermos, ele faz um Teste de Reação de Destreza. </p><p></p><p>Em caso de falha, ele se corta nas bordas afiadas do terreno. Fragmentos de cristal mágico ficam embutidos em seu ferimento e crescem lentamente, Cristalizando-o. </p><p></p><p>Ative uma Contagem Regressiva de Cristal (1) para aquele PC. </p><p></p><p>Até que remova a condição com um Teste de Conhecimento bem-sucedido, um PC Cristalizando aumenta sua Contagem Regressiva de Cristal no início de cada descanso e tem uma penalidade à sua Evasão igual ao seu valor. </p><p></p><p>A contagem regressiva termina quando a condição é limpa. </p><p></p><p></p><p>Como fica o cristal enquanto cresce? Como ele parece?</p>"
+    },
+    "Arcane Reflection - Action": {
+      "name": "Reflexo Arcano - Ação",
+      "description": "<p>Reflexo Arcano - Ação: <strong>Gaste um Medo</strong> para fazer qualquer número de PCs vislumbrarem um reflexo no cristal de quem eles eram ou poderiam se tornar. </p><p></p><p>Cada alvo faz um Teste de Destino ([[/r 1d12]]). Alvos que têm sucesso veem uma visão de seu eu melhor e podem substituir uma Experiência. </p><p></p><p>Alvos que falham veem uma visão de seu passado sombrio — ou um futuro ainda mais sombrio — e devem marcar uma Fadiga, e você ganha um Medo. </p><p></p><p></p><p>Quem os PCs veem do outro lado do cristal? Como isso os faz sentir?</p>"
+    },
+    "Psychic Blast": {
+      "name": "Explosão Psíquica",
+      "description": "<p>Explosão Psíquica - Ação: <strong>Gaste um Medo</strong> e escolha até três alvos dentro do alcance Próximo para fazer um Teste de Reação de Conhecimento ou Instinto (20). </p><p></p><p>Alvos que têm sucesso recebem 2d10+5 dano mágico direto. </p><p></p><p>Alvos que falham recebem 4d10+10 dano mágico direto e ficam Vulneráveis até receberem destaque.</p>"
+    },
+    "Cerebral Suction": {
+      "name": "Sucção Cerebral",
+      "description": "<p>Sucção Cerebral - Ação: Gaste um Medo para escolher um alvo Vulnerável dentro do alcance Corpo a Corpo. </p><p></p><p>O Sacerdote agarra o alvo e tenta inserir seus tentáculos faciais nos ouvidos, nariz e boca do alvo. </p><p></p><p>O alvo deve ter sucesso em um Teste de Reação de Força ou marcar [[/r 1d6]] Fadiga. </p><p></p><p>O Sacerdote limpa um número de Fadiga igual ao número de Fadiga que o alvo marcou.</p>"
+    },
+    "Telekinetic Grasp": {
+      "name": "Agarrão Telecinético",
+      "description": "<p>Agarrão Telecinético - Reação: Quando o Sacerdote tem sucesso em um ataque padrão, você pode marcar uma Fadiga para Prender o alvo até que ele gaste uma Esperança para limpar esta condição. </p>"
+    },
+    "Torchbearer": {
+      "name": "Portador da Tocha",
+      "description": "<p>Portador da Tocha - Passivo: A luz da mão da glória do Fabricante de Velas inspira sede de sangue em seus aliados. Enquanto este bloco de estatísticas tiver um ou mais marcadores, qualquer Barrete Vermelho dentro do alcance Próximo recebe um bônus de +1 em seus testes de dano.</p>"
+    },
+    "Hand of Glory": {
+      "name": "Mão da Glória",
+      "description": "<p>Mão da Glória - Passivo: Quando o Fabricante de Velas aparece, coloque cinco marcadores neste bloco de estatísticas. Remova um marcador sempre que o Fabricante de Velas marcar um PV. </p><p></p><p>Enquanto este bloco de estatísticas tiver um ou mais marcadores, o Fabricante de Velas fica Oculto.</p>"
+    },
+    "Dance in the Flames": {
+      "name": "Dançar nas Chamas",
+      "description": "<p>Dançar nas Chamas - Ação: Gaste um marcador deste bloco de estatísticas. O Fabricante de Velas conjura uma bola de fogo em um ponto dentro do alcance Distante. </p><p></p><p>Todas as criaturas dentro do alcance Muito Próximo daquele ponto devem fazer um Teste de Reação de Agilidade. Alvos que falham recebem 2d10 dano mágico. Alvos que têm sucesso recebem metade do dano.</p>"
+    },
+    "Eyestalks": {
+      "name": "Pedúnculos Oculares",
+      "description": "<p>Pedúnculos Oculares - Ação: Marque uma Fadiga para atacar um alvo dentro do alcance Distante. Ao acertar, gaste um Medo para escolher um efeito ou role [[/r 1d10]] para um efeito aleatório. O Caçador Goblin usa o raio mágico correspondente:</p><p>1. Encantar. O alvo fica Encantado e vê o Caçador Goblin como um amigo. Uma criatura Encantada não pode atacar o Caçador Goblin. Além disso, um PC Encantado deve marcar uma Fadiga ou fazer um ataque padrão contra seu aliado mais próximo sempre que alguém rolar com Medo. Este efeito dura até o alvo ter sucesso em um Teste de Presença ou Conhecimento (16).</p><p>2. Corroer. O alvo recebe 2d8 dano mágico e marca um Slot de Armadura sem receber seus benefícios (ele ainda pode usar a armadura para reduzir o dano). Se todos os Slots de Armadura do alvo já estiverem marcados, dobre o dano.</p><p>3. Condenar. O alvo imediatamente marca todos os PV limpos, mas pode reduzir o número de PV marcados desta forma gastando qualquer quantidade de Esperança. Para cada Esperança gasta desta forma, reduza o número de PV marcados em 1.</p><p>4. Hipnotizar. O alvo cai em um transe profundo semelhante ao sono e não pode fazer nenhuma ação exceto tentar acordar. O alvo acorda quando é atingido por um ataque, marca 1 ou mais PV, ou tem sucesso em um Teste de Instinto (16) para acordar.</p><p>5. Paralisar. O alvo congela no lugar, ficando Vulnerável e Preso até marcar 2 Fadiga.</p><p>6. Petrificar. Coloque uma Contagem Regressiva de Petrificação (6) no alvo. Ela diminui quando um PC rola com Medo. Quando é acionada, o alvo vira pedra até que o Caçador Goblin seja derrotado ou ele faça um Descanso Longo. Enquanto pedra, o alvo é imune a todo dano e consciente de seus arredores, mas não pode fazer ações.</p><p>7. Empurrar. O alvo é arremessado até o alcance Distante e recebe 3d6 dano físico pelo impacto.</p><p>8. Queimar. O alvo recebe 2d8 dano mágico direto.</p><p>9. Desacelerar. O alvo fica Vulnerável e deve marcar uma Fadiga para se mover. O alvo pode gastar 2 Esperança a qualquer momento para encerrar este efeito.</p><p>10. Aterrorizar. O alvo não pode agir exceto para fugir da batalha ou tentar superar seu medo com um Teste de Percepção bem-sucedido (16). Além disso, sempre que você gastar Medo, o alvo deve marcar uma Fadiga. Este efeito dura até o Caçador Goblin ser derrotado ou o alvo fazer um descanso.</p><p></p>"
+    },
+    "Anti-mystica-halitosis": {
+      "name": "Anti-mística-halitose",
+      "description": "<p>Anti-mística-halitose - Passivo: O hálito de um Caçador Goblin é tão rançoso que cria uma névoa invisível que nega efeitos mágicos. </p><p></p><p>Qualquer ataque que cause dano mágico ou crie um efeito mágico à frente do Caçador Goblin dentro do alcance Próximo falha automaticamente. </p><p></p><p>Esta habilidade não afeta as próprias habilidades do Caçador Goblin.</p>"
+    },
+    "Knife Thrower": {
+      "name": "Arremessador de Facas",
+      "description": "<p>Arremessador de Facas - Ação: Marque uma Fadiga para fazer um ataque padrão contra um alvo dentro do alcance Distante. Se o Açougueiro fizer este ataque enquanto Oculto, ele tem Vantagem no teste de ataque.</p>"
+    },
+    "Chop Happy": {
+      "name": "Feliz de Cortar",
+      "description": "<p>Feliz de Cortar - Ação: Marque uma Fadiga para fazer um ataque padrão contra até três alvos dentro do alcance. Para cada alvo que marcar um PV, você ganha um Medo.</p>"
+    },
+    "Saw This Coming - Passive": {
+      "name": "Previu Isso Vindo - Passivo",
+      "description": "<p>Previu Isso Vindo - Passivo: Uma vez por sessão, um PC pode gastar uma Esperança para explicar como se preparou para a situação atual e revelar uma informação chave (como a localização de uma passagem secreta ou a senha de uma área restrita) ou produzir um item útil (como um uniforme de cultista deixado sem vigilância ou um consumível comum escondido em sua bota). </p><p></p><p></p><p>O que o PC preparou com antecedência? Como ele sabia que precisaria disso? O que custou para ele preparar — ou a quem ele deve um favor?</p>"
+    },
+    "Prep Work - Passive": {
+      "name": "Trabalho Preparatório - Passivo",
+      "description": "<p>Trabalho Preparatório - Passivo: Antes do Assalto, cada PC tem a oportunidade de reunir uma informação chave, vigiar o local ou adquirir uma ferramenta ou recurso útil. </p><p></p><p>Dê a cada jogador a oportunidade de descrever um obstáculo que espera encontrar e como se preparou para superá-lo, depois peça que façam um teste de ação. </p><p></p><p>Em caso de sucesso, eles obtêm a vantagem ou o recurso que buscavam. Em um sucesso com Medo, é menos útil do que esperavam (por exemplo, eles descobrem a localização de um ponto de acesso oculto, mas descobrem que invadir será provavelmente difícil e barulhento). </p><p></p><p></p><p>Como o PC obtém esta vantagem? Ele vai sozinho ou pede ajuda? Que complicações imprevistas surgem durante o Assalto em si?</p>"
+    },
+    "Infiltration - Passive": {
+      "name": "Infiltração - Passivo",
+      "description": "<p>Infiltração - Passivo: Estabeleça o objetivo do Assalto e inicie duas contagens regressivas dinâmicas: uma Contagem de Progresso (12) para representar o trabalho do grupo em direção ao seu objetivo e uma Contagem de Consequência (10) para representar o risco crescente de descoberta e captura. </p><p></p><p>Avance ambas de acordo com a tabela de Avanço de Contagem Dinâmica conforme os PCs fazem testes de ação para completar o Assalto. </p><p></p><p>Se a Contagem de Progresso for acionada primeiro, coloque este ambiente em destaque para usar a habilidade \"Exfiltração\". Se a Contagem de Consequência for acionada primeiro, ganhe [[/r 1d4]] Medo, coloque este ambiente em destaque e use a habilidade \"Soar o Alarme\".</p><p></p><p></p><p>O que o grupo está atrás — e onde está localizado? Que obstáculos inesperados eles encontrarão? O que acontece se o grupo for capturado?</p>"
+    },
+    "Sound the Alarm - Reaction": {
+      "name": "Soar o Alarme - Reação",
+      "description": "<p>Soar o Alarme - Reação: Quando a Contagem de Consequência é acionada, o grupo é descoberto e o local entra em Alerta Máximo. </p><p></p><p>Imediatamente invoque um número de adversários de Grau 2 igual ao número de PCs na cena e coloque um em destaque. </p><p></p><p>Enquanto este ambiente estiver em Alerta Máximo, todos os adversários recebem um bônus de +1 à sua Dificuldade. </p><p></p><p></p><p>O que torna esses adversários uniquamente adequados para guardar este local? O que eles sabem sobre este lugar que lhes dá vantagem?</p>"
+    },
+    "Exfiltration - Reaction": {
+      "name": "Exfiltração - Reação",
+      "description": "<p>Exfiltração - Reação: Quando a Contagem de Progresso é acionada, o grupo adquire o objeto do Assalto e deve ter sucesso em um teste de ação em grupo para escapar sem ser capturado. </p><p></p><p>Em caso de falha, cada PC marca uma Fadiga e recebe 2d12 dano direto. </p><p></p><p></p><p>O que torna sair ainda mais perigoso do que entrar? Que desenvolvimentos imprevistos atrapalham o plano de fuga original do grupo?</p>"
+    },
+    "Relic Hunter": {
+      "name": "Caçador de Relíquias",
+      "description": "<p>Caçador de Relíquias - Passivo: O Rei das Sombras tem Vantagem nos ataques</p><p>contra PCs com armas mágicas ou armaduras equipadas</p>"
+    },
+    "Cursed Lance - Magical": {
+      "name": "Lança Amaldiçoada - Mágico",
+      "description": ""
+    },
+    "Hellsong": {
+      "name": "Canto do Inferno",
+      "description": "<p>Canto do Inferno - Ação: Gaste 2 Medo para fazer a montaria do Rei das Sombras soltar um grito arrepiante que ecoa pelo campo de batalha. </p><p></p><p>Todos os PCs dentro do alcance Distante devem fazer um Teste de Reação de Presença (18). Alvos que têm sucesso devem marcar uma Fadiga. Alvos que falham devem marcar uma Fadiga e perder uma Esperança. Se o PC não puder perder uma Esperança, você ganha 1 Medo.</p>"
+    },
+    "Air Support": {
+      "name": "Suporte Aéreo",
+      "description": "<p>Suporte Aéreo - Reação: Três vezes por cena, você pode gastar um Medo para fazer um adversário dentro do alcance Distante do Rei das Sombras rolar novamente um ataque errado com Vantagem.</p>"
+    },
+    "Light and Shadow": {
+      "name": "Luz e Sombra",
+      "description": "<p>Luz e Sombra - Passivo: O Rei das Sombras recebe um bônus de +1 nos testes de ataque e dano enquanto na sombra ou escuridão e uma penalidade de −1 nos testes de ataque e dano enquanto em luz brilhante.</p>"
+    },
+    "Celestial Coda +1": {
+      "name": "Coda Celestial +1",
+      "description": ""
+    },
+    "Celestial Coda +3": {
+      "name": "Coda Celestial +3",
+      "description": ""
+    },
+    "Celestial Coda +2": {
+      "name": "Coda Celestial +2",
+      "description": ""
+    },
+    "High Ground - Passive": {
+      "name": "Terreno Elevado - Passivo",
+      "description": ""
+    },
+    "Come Back Worse +2": {
+      "name": "Retorna Pior +2",
+      "description": ""
+    },
+    "Come Back Worse +1": {
+      "name": "Retorna Pior +1",
+      "description": ""
+    },
+    "Come Back Worse +3": {
+      "name": "Retorna Pior +3",
+      "description": ""
+    },
+    "In Shadow": {
+      "name": "Na Sombra",
+      "description": ""
+    },
+    "In Light": {
+      "name": "Na Luz",
+      "description": ""
+    },
+    "Tier 2": {
+      "name": "Grau 2",
+      "description": ""
+    },
+    "Tier 4": {
+      "name": "Grau 4",
+      "description": ""
+    },
+    "Tier 1": {
+      "name": "Grau 1",
+      "description": ""
+    },
+    "Tier 3": {
+      "name": "Grau 3",
+      "description": ""
+    },
+    "Adversaries - The Void": {
+      "name": "Adversários - O Void",
+      "description": ""
+    },
+    "Environments - The Void": {
+      "name": "Ambientes - O Void",
+      "description": ""
+    }
+  }
+}

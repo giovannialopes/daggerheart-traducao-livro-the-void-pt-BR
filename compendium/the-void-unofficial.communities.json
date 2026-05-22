@@ -1,0 +1,62 @@
+{
+  "label": "Comunidades",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Community Features": "Habilidades de Comunidade"
+  },
+  "entries": {
+    "Community Features": {
+      "name": "Habilidades de Comunidade"
+    },
+    "Warborne": {
+      "name": "Nascido da Guerra",
+      "description": "<p><em>Fazer parte de uma comunidade nascida da guerra significa que você vem de um lugar que é, ou foi, devastado por conflitos.</em></p>"
+    },
+    "Hearthborne": {
+      "name": "Nascido do Lar",
+      "description": "<p><em>Vir de uma comunidade do lar significa que você tem origens humildes, tendo vivido em uma pequena vila ou no campo.</em></p>"
+    },
+    "Reborne": {
+      "name": "Renascido",
+      "description": "<p><em>Você já foi membro de outra comunidade, mas não consegue mais se lembrar dela.</em></p><p></p><p>A qualquer momento, quando você descobrir a comunidade da qual fazia parte, ou ingressar em uma nova, pode trocar permanentemente esta carta de comunidade por aquela.</p>"
+    },
+    "Duneborne": {
+      "name": "Nascido das Dunas",
+      "description": "<p><em>Fazer parte de uma comunidade nascida das dunas significa que você fez seu lar entre as areias cambiantes e o clima árido do deserto.</em></p>"
+    },
+    "Frostborne": {
+      "name": "Nascido do Gelo",
+      "description": "<p><em>Fazer parte de uma comunidade nascida do gelo significa que você vem de um lugar de neve e gelo.</em></p>"
+    },
+    "Freeborne": {
+      "name": "Nascido Livre",
+      "description": "<p><em>Fazer parte de uma comunidade nascida livre significa que você vem de um coletivo que viveu sob um regime tirânico e agora está liberto.</em></p>"
+    },
+    "Hardy": {
+      "name": "Resistente",
+      "description": "<p>Uma vez por descanso, você pode Ajudar um Aliado a atravessar terreno difícil sem gastar Esperança.</p>"
+    },
+    "Unbound": {
+      "name": "Desacorrentado",
+      "description": "<p>Uma vez por sessão, quando você fizer um teste com Medo, pode transformá-lo em um teste com Esperança.</p>"
+    },
+    "Found Family": {
+      "name": "Família Escolhida",
+      "description": "<p>Uma vez por sessão, você pode <strong>gastar Esperança</strong> para usar a habilidade de comunidade de um aliado. Quando fizer isso, seu aliado ganha Esperança.</p>"
+    },
+    "Brave Face": {
+      "name": "Rosto Corajoso",
+      "description": "<p>Uma vez por sessão, quando um ataque faria você marcar Fadiga, você pode <strong>gastar Esperança</strong> em vez disso.</p>"
+    },
+    "Close-Knit": {
+      "name": "Unidos",
+      "description": "<p>Uma vez por descanso longo, você pode <strong>gastar qualquer quantidade de Esperança</strong> para dar ao aliado a mesma quantidade de Esperança.</p>"
+    },
+    "Oasis": {
+      "name": "Oásis",
+      "description": "<p>Durante um descanso curto, você ou um aliado pode rolar novamente um dado usado em uma ação de tempo livre.</p>"
+    }
+  }
+}

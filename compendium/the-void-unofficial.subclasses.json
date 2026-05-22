@@ -1,0 +1,437 @@
+{
+  "label": "Subclasses (The Void)",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Brawler": "Brigão",
+    "Blood Hunter": "Caçador de Sangue",
+    "Assassin": "Assassino",
+    "Witch": "Bruxa",
+    "Warlock": "Bruxo",
+    "Brawler Stances": "Posturas do Brigão",
+    "Mastery Features": "Maestria",
+    "Specialization Features": "Especialização",
+    "Foundation Features": "Fundamental",
+    "Subclass Features": "Habilidades de Subclasse",
+    "Tier 1": "Grau 1",
+    "Tier 2": "Grau 2",
+    "Tier 3": "Grau 3",
+    "Tier 4": "Grau 4"
+  },
+  "entries": {
+    "Mastery Features": {
+      "name": "Maestria"
+    },
+    "Brawler": {
+      "name": "Brigão"
+    },
+    "Specialization Features": {
+      "name": "Especialização"
+    },
+    "Tier 1": {
+      "name": "Grau 1"
+    },
+    "Tier 4": {
+      "name": "Grau 4"
+    },
+    "Blood Hunter": {
+      "name": "Caçador de Sangue"
+    },
+    "Assassin": {
+      "name": "Assassino"
+    },
+    "Foundation Features": {
+      "name": "Fundamental"
+    },
+    "Witch": {
+      "name": "Bruxa"
+    },
+    "Subclass Features": {
+      "name": "Habilidades de Subclasse"
+    },
+    "Warlock": {
+      "name": "Bruxo"
+    },
+    "Brawler Stances": {
+      "name": "Posturas do Brigão"
+    },
+    "Tier 2": {
+      "name": "Grau 2"
+    },
+    "Tier 3": {
+      "name": "Grau 3"
+    },
+    "Stance - Compounding": {
+      "name": "Postura - Acumuladora",
+      "description": "<p>Acumuladora: Ao rolar o valor máximo em um Dado de Combo, aumente o tamanho dos Dados de Combo subsequentes que você rolar para o ataque (no máximo d12s).</p>"
+    },
+    "Moonbeam": {
+      "name": "Raio de Lua",
+      "description": "<p>Uma vez por sessão, você pode conjurar uma coluna de luz lunar que ilumina a área dentro de alcance Próximo até o fim da cena. Enquanto banhados nesta luz lunar, você e quaisquer aliados recebem um bônus de +1 em Testes de Conjuração e vantagem em rolagens para ver através de ilusões.</p>"
+    },
+    "Not Done Yet": {
+      "name": "Ainda Não Terminei",
+      "description": "<p>Quando você marca mais de um PV de um ataque, você pode ganhar uma Esperança ou limpar uma Fadiga.</p>"
+    },
+    "Order of the Lycan": {
+      "name": "Ordem do Licântropo"
+    },
+    "Dark Aegis": {
+      "name": "Égide das Trevas",
+      "description": "<p>Uma vez por descanso longo, quando você marcaria qualquer número de Pontos de Vida, você pode <strong>gastar um Favor</strong> em vez disso.</p>"
+    },
+    "Patron's Mantle": {
+      "name": "Manto do Patrono",
+      "description": "<p><strong>Marque uma Fadiga</strong> para se cobrir com um aspecto aterrorizante do seu Patrono que dura até você sofrer dano Grave ou a cena terminar:</p><ul><li><p><em>Quando você marcaria um Slot de Armadura, você pode <strong>gastar 2 Favores</strong> em vez disso.</em></p></li><li><p><em>Você recebe um bônus igual ao seu grau em testes de ação para intimidar um alvo.</em></p></li></ul>"
+    },
+    "Poison Compendium": {
+      "name": "Compêndio de Venenos",
+      "description": "<p>Você também conhece estes venenos:</p><ul><li><p><em><strong>Véu da Meia-Noite:</strong> O alvo recebe uma penalidade permanente de <strong>-2</strong> em rolagens de ataque. Isso só pode afetá-lo uma vez.</em></p></li><li><p><em><strong>Pétala Fantasma</strong>: Diminua permanentemente os dados de dano do ataque padrão do alvo em um passo (d10 para d8, d8 para d6, etc.). Isso só pode afetá-lo uma vez.</em></p></li></ul>"
+    },
+    "Order of the Mutant": {
+      "name": "Ordem do Mutante"
+    },
+    "Stance - Nimble": {
+      "name": "Postura - Ágil",
+      "description": "<p>Ágil: Quando um adversário faz uma rolagem de ataque bem-sucedida contra você, você pode gastar um número de Foco até seu Grau. Role um número de d6s igual a 1 + o Foco gasto. Se algum dos valores dos dados coincidir, você não sofre dano do ataque.</p><p></p><p>1 Foco: [[/r 2d6]]</p><p>2 Foco: [[/r 3d6]]</p><p>3 Foco: [[/r 4d6]]</p><p>4 Foco: [[/r 5d6]]</p>"
+    },
+    "Divine Ire": {
+      "name": "Ira Divina",
+      "description": "<p>Uma vez por descanso, quando você sofre dano, você pode <strong>gastar qualquer número de Favores</strong> para mirar nesse número de adversários dentro de alcance Próximo. Cada alvo deve marcar um Ponto de Vida.</p>"
+    },
+    "Stance - Devastating": {
+      "name": "Postura - Devastadora",
+      "description": "<p>Devastadora: Gaste um Foco antes de sua rolagem de ataque para usar d20s como seus dados de dano.</p>"
+    },
+    "Shadowed Grit": {
+      "name": "Determinação Sombria",
+      "description": "<p>Quando o Mestre ganha um Medo de uma rolagem de Dados de Dualidade, você pode marcar uma Fadiga para ganhar uma Esperança.</p>"
+    },
+    "Overwhelm": {
+      "name": "Atordoar",
+      "description": "<p>Em um ataque bem-sucedido, você pode <strong>gastar uma Esperança</strong> para forçar o alvo a marcar uma Fadiga ou para lançá-lo dentro de alcance Próximo.</p>"
+    },
+    "Stance - Deadly": {
+      "name": "Postura - Letal",
+      "description": "<p>Letal: Quando você causa dano Grave, o alvo marca um PV adicional.</p>"
+    },
+    "Spirit Blast": {
+      "name": "Explosão Espiritual",
+      "description": "<p><strong>Gaste um Foco</strong> para fazer um <strong>Teste de Instinto</strong> contra um adversário dentro de alcance Próximo. Com sucesso, você causa <strong>d20+3</strong> de dano mágico usando sua Proficiência e pode gastar um Foco adicional para torná-lo temporariamente <em>Vulnerável</em>.</p>"
+    },
+    "Diminish My Foes": {
+      "name": "Enfraquecer Meus Inimigos",
+      "description": "<p>Quando você tem sucesso com Esperança em um teste de ação contra um alvo, você pode <strong>gastar uma Esperança</strong> para fazer seu alvo marcar uma Fadiga.</p>"
+    },
+    "Eye for an Eye": {
+      "name": "Olho por Olho",
+      "description": "<p>Quando você marca mais de um Ponto de Vida de um ataque em alcance Corpo a Corpo, o atacante deve fazer um <strong>Teste de Reação (13)</strong>. Em uma falha, uma vez por descanso, ele imediatamente marca o mesmo número de Pontos de Vida em retorno.</p>"
+    },
+    "Backstab": {
+      "name": "Golpe pelas Costas",
+      "description": "<p>Sua habilidade \"<em>Marcado para a Morte</em>\" usa <strong>d8s</strong> em vez de <strong>d6s</strong>.</p>"
+    },
+    "Stance - Immovable": {
+      "name": "Postura - Inabalável"
+    },
+    "Stance - Steady": {
+      "name": "Postura - Firme"
+    },
+    "Stance - Discerning": {
+      "name": "Postura - Discernidora",
+      "description": "<p>Discernidora: Você pode escolher o alvo do seu ataque após fazer sua rolagem de ataque. O Mestre lhe dirá contra quem o ataque teria sucesso.</p>"
+    },
+    "Stance - Deflecting": {
+      "name": "Postura - Desviante",
+      "description": "<p>Desviante: Quando você é alvo de um ataque, você pode gastar 2 Foco para ganhar um bônus em sua Evasão igual à sua Pontuação de Armadura contra o ataque.</p>"
+    },
+    "Scorpion's Poise": {
+      "name": "Postura do Escorpião",
+      "description": "<p>Você recebe um bônus de <strong>+2</strong> em sua Evasão contra quaisquer ataques feitos por uma criatura <em>Marcada para a Morte.</em></p>"
+    },
+    "Lycan Regeneration": {
+      "name": "Regeneração Licantropa",
+      "description": "<p>Enquanto estiver em sua Forma de Lobo com todos os seus Pontos de Vida marcados, você pode marcar uma Fadiga para limpar um Ponto de Vida. Você pode fazer isso enquanto inconsciente.</p>"
+    },
+    "Master the Beast": {
+      "name": "Dominar a Besta",
+      "description": "<p>Quando você está em sua Forma de Lobo e marcaria sua última Fadiga, você pode em vez disso colocar uma de suas cartas de Domínio do seu Loadout em seu Cofre; você não pode Recordar essa carta de Domínio até terminar um descanso longo.</p><p></p><p>Quando você Enfrenta ao marcar sua última Fadiga enquanto está na Forma de Lobo, você ganha 2 Esperança.</p>"
+    },
+    "Stance - Inexorable": {
+      "name": "Postura - Inexorável",
+      "description": "<p>Inexorável: Ataques contra você têm desvantagem se você tiver mais de dois adversários dentro de alcance Corpo a Corpo de você.</p>"
+    },
+    "Draining Invoaction": {
+      "name": "Invocação Drenante",
+      "description": "<p>Quando um adversário ataca você ou um aliado dentro de alcance Muito Próximo, você pode <strong>gastar um Favor</strong> para fazê-lo usar um <strong>d12</strong> em vez de um <strong>d20</strong> para a rolagem de ataque. Além disso, o adversário deve marcar uma Fadiga, e você pode limpar uma Fadiga.</p>"
+    },
+    "Werewolf": {
+      "name": "Lobisomem",
+      "description": "<p>Você ganha a carta de Transformação de Lobisomem. Suas rolagens para perceber por audição e olfato têm vantagem.</p><p></p><p></p>"
+    },
+    "Executioner's Guild": {
+      "name": "Guilda do Executor"
+    },
+    "Improved Mutagens": {
+      "name": "Mutagênicos Aprimorados",
+      "description": "<p>Quando você escolhe um benefício de mutagênico, suas opções também incluem o seguinte:</p><ul><li><p>Nervos de Aço. Sempre que você deve marcar uma Fadiga, você pode gastar 2 Esperança em vez disso.</p></li><li><p>Rapidez. Sua Evasão aumenta em 1.</p></li><li><p>Pele de Ferro. Seu limiar de dano Grave aumenta em um número igual à sua Proficiência.</p></li></ul>"
+    },
+    "Focus": {
+      "name": "Foco",
+      "description": "<p>Clique aqui para rolar: [[/r 1d6]].</p><p>Durante um descanso, role um número de <strong>d6s</strong> igual ao seu Instinto e coloque um número de tokens de Foco igual ao maior valor rolado nesta carta. <strong>Gaste um Foco</strong> para assumir uma postura até você sofrer dano Grave, a cena terminar, marcar seu último Ponto de Vida, ou mudar para outra postura.</p><p></p>"
+    },
+    "Stance - Quick": {
+      "name": "Postura - Rápida",
+      "description": "<p>Rápida: Ao fazer uma rolagem de ataque, gaste um Foco para incluir um alvo adicional dentro do alcance.</p>"
+    },
+    "Stance - Brutal": {
+      "name": "Postura - Brutal",
+      "description": "<p>Brutal: Quando você rola o valor máximo em um dado de dano, role um dado de dano adicional.</p>"
+    },
+    "Lunar Phases": {
+      "name": "Fases Lunares",
+      "description": "<p>Seu espírito flui e reflui como as fases da lua. No início de cada sessão, role um <strong>d4</strong> e ganhe o efeito correspondente até o fim da sessão:</p><ul><li><p><strong>1</strong>: Nova - Você sempre pode <strong>gastar uma Esperança</strong> para reduzir dano Menor para Nenhum.</p></li><li><p><strong>2</strong>: Crescente - Ganhe um bônus de <strong>+2</strong> em suas rolagens de dano.</p></li><li><p><strong>3</strong>: Cheia - Ganhe um bônus de <strong>+2</strong> em seus limiares de dano.</p></li><li><p><strong>4</strong>: Minguante - Ganhe um bônus de <strong>+1</strong> em sua Evasão.</p></li></ul>"
+    },
+    "First Strike": {
+      "name": "Primeiro Golpe",
+      "description": "<p>A primeira vez em uma cena que você tem sucesso em uma rolagem de ataque, dobre o dano do ataque.</p>"
+    },
+    "Moon": {
+      "name": "Lua",
+      "description": "<p>Você canaliza os poderes da lua para enganar e proteger.</p>"
+    },
+    "Toxic Concoctions": {
+      "name": "Concocções Tóxicas",
+      "description": "<p><strong>Marque uma Fadiga</strong> para adicionar [[/r 1d4+1]] tokens a esta carta. No seu próximo descanso longo, limpe esta carta. Você conhece estes venenos:</p><ul><li><p><em><strong>Raiz de Górgona</strong>: A <strong>Dificuldade</strong> do alvo recebe uma penalidade permanente de <strong>-1</strong>. Isso só pode afetá-lo uma vez.</em></p></li><li><p><em><strong>Esporo da Tumba</strong>: O alvo também deve marcar uma <strong>Fadiga</strong>.</em></p></li><li><p><em><strong>Erva Sanguessuga</strong>: Ganhe um bônus de <strong>+1d6</strong> no dano deste ataque.</em></p></li></ul>"
+    },
+    "True Strike": {
+      "name": "Golpe Certeiro",
+      "description": "<p>Uma vez por descanso longo, quando você falha em uma rolagem de ataque, você pode <strong>gastar uma Esperança</strong> para torná-la um sucesso.</p>"
+    },
+    "Envenomate": {
+      "name": "Envenenar",
+      "description": "<p>Em um ataque de arma bem-sucedido, você pode gastar um token desta carta para afflitar o alvo com o efeito de um veneno conhecido.</p><ul><li><p><em><strong>Raiz de Górgona</strong>: A <strong>Dificuldade</strong> do alvo recebe uma penalidade permanente de <strong>-1</strong>. Isso só pode afetá-lo uma vez.</em></p></li><li><p><em><strong>Esporo da Tumba</strong>: O alvo também deve marcar uma <strong>Fadiga</strong>.</em></p></li><li><p><em><strong>Erva Sanguessuga</strong>: Ganhe um bônus de <strong>+1d6</strong> no dano deste ataque.</em></p></li></ul>"
+    },
+    "Stance - Hindering": {
+      "name": "Postura - Impeditiva"
+    },
+    "Martial Form": {
+      "name": "Forma Marcial",
+      "description": "<p>Você começa com duas posturas marciais do Grau 1. Quando você atinge um novo grau, pegue duas posturas adicionais no seu grau ou inferior.</p><p></p><p>Você pode arrastar estas habilidades para a sua ficha de personagem.</p><p></p><h2>Grau 1</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.MHKcMoI1FOlEbi7M]{Postura - Brutal}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.ancvKGl3z9tFzTnC]{Postura - Defensiva}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.pj9E3iEGM6CSrGXW]{Postura - Agarradora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.gAB29yCHpBCmvcoY]{Postura - Precisa}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.M1CBMs4kVOxMnUIT]{Postura - Rápida}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.BpeJi5xFnTxmi1Ru]{Postura - Firme}</p><p></p><h2>Grau 2</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.8wGHiaqfE9vTL4b4]{Postura - Letal}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.PlOmkkaDCr2cr7Kz]{Postura - Impeditiva}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.BnGRJDnIO6CqDY6W]{Postura - Inabalável}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.iQAXTA6y0KhzKUcU]{Postura - Revigorante}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.6jexZv6ufhinEvNp]{Postura - Ágil}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.cpQEaPhWDTtzJaM0]{Postura - Sobrenatural}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.oW8fm6mYYiQh4mV5]{Postura - Assustadora}</p><p></p><h2>Grau 3</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.0J4jLxLWzoDye1ew]{Postura - Acumuladora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.CIl8Pe4wzhEGuzp9]{Postura - Desviante}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.84XJzmb6ZORSDA5Q]{Postura - Devastadora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.WzzhboGOu8DVPo6i]{Postura - Duelo}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.XOYTovtyz7MwsRlP]{Postura - Favorita}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.IRDj7cX6vLINhusw]{Postura - Inexorável}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.hVQW2ZDnvUKZ8iaA]{Postura - Protetora}</p><p></p><h2>Grau 4</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.ihGjGgVizC2rS40H]{Postura - Esmagadora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.C0ZrpyxqH34H3HUd]{Postura - Discernidora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.T0X88UuKtmf5Adlb]{Postura - Enfurecedora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.wTKUd4DxHykGwODz]{Postura - Varredora}</p><p></p><p></p><p></p><p></p><p></p>"
+    },
+    "Stance - Infuriating": {
+      "name": "Postura - Enfurecedora",
+      "description": "<p>Enfurecedora: Em um ataque bem-sucedido, o alvo fica Furioso. Enquanto Furioso, ele fica Vulnerável e tem uma penalidade de -2 em suas rolagens de ataque. Ele só pode limpar Furioso ao ter sucesso em um ataque contra você.</p>"
+    },
+    "Limit Breaker": {
+      "name": "Quebrador de Limites",
+      "description": "<p>Uma vez por descanso, você pode realizar uma façanha inacreditável como correr sobre a água, saltar entre telhados distantes ou escalar a lateral de um prédio sem precisar rolar. Quando fizer isso, ganhe uma Esperança e limpe uma Fadiga.</p>"
+    },
+    "Tethered Talisman": {
+      "name": "Talismã Ligado",
+      "description": "<p>Uma vez por descanso, você pode imbuir um pequeno objeto com sua essência protetora. Quando a pessoa segurando o talismã sofre dano, você pode gastar sua magia para reduzir em um o número de Pontos de Vida que ela marca. Você não pode criar um novo talismã até que o antigo tenha sido usado.</p>"
+    },
+    "Venomancer": {
+      "name": "Venomancer",
+      "description": "<p>Você também conhece estes venenos:</p><ul><li><p><em><strong>Semente da Praga:</strong> O alvo recebe uma penalidade permanente de <strong>-3</strong> em seus <strong>limiares de dano</strong>. Isso só pode afetá-lo uma vez.</em></p></li><li><p><em><strong>Folha do Medo:</strong> O dano deste ataque ganha um bônus igual ao resultado do seu Dado de <strong>Medo</strong>.</em></p></li></ul>"
+    },
+    "Stance - Dueling": {
+      "name": "Postura - Duelo",
+      "description": "<p>Duelo: Ganhe vantagem em rolagens de ataque quando não há outros adversários ou aliados em alcance Muito Próximo de você ou do seu alvo.</p>"
+    },
+    "Martial Artist": {
+      "name": "Artista Marcial",
+      "description": "<p>Você estudou e dominou estilos de luta específicos, deixando seus movimentos fluírem perfeitamente em batalha.</p><p></p><p>Você pode arrastar estas habilidades para a sua ficha de personagem.</p><p></p><h2>Grau 1</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.MHKcMoI1FOlEbi7M]{Postura - Brutal}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.ancvKGl3z9tFzTnC]{Postura - Defensiva}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.pj9E3iEGM6CSrGXW]{Postura - Agarradora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.gAB29yCHpBCmvcoY]{Postura - Precisa}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.M1CBMs4kVOxMnUIT]{Postura - Rápida}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.BpeJi5xFnTxmi1Ru]{Postura - Firme}</p><p></p><h2>Grau 2</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.8wGHiaqfE9vTL4b4]{Postura - Letal}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.PlOmkkaDCr2cr7Kz]{Postura - Impeditiva}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.BnGRJDnIO6CqDY6W]{Postura - Inabalável}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.iQAXTA6y0KhzKUcU]{Postura - Revigorante}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.6jexZv6ufhinEvNp]{Postura - Ágil}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.cpQEaPhWDTtzJaM0]{Postura - Sobrenatural}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.oW8fm6mYYiQh4mV5]{Postura - Assustadora}</p><p></p><h2>Grau 3</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.0J4jLxLWzoDye1ew]{Postura - Acumuladora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.CIl8Pe4wzhEGuzp9]{Postura - Desviante}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.84XJzmb6ZORSDA5Q]{Postura - Devastadora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.WzzhboGOu8DVPo6i]{Postura - Duelo}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.XOYTovtyz7MwsRlP]{Postura - Favorita}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.IRDj7cX6vLINhusw]{Postura - Inexorável}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.hVQW2ZDnvUKZ8iaA]{Postura - Protetora}</p><p></p><h2>Grau 4</h2><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.ihGjGgVizC2rS40H]{Postura - Esmagadora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.C0ZrpyxqH34H3HUd]{Postura - Discernidora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.T0X88UuKtmf5Adlb]{Postura - Enfurecedora}</p><p>@UUID[Compendium.the-void-unofficial.subclasses.Item.wTKUd4DxHykGwODz]{Postura - Varredora}</p><p></p><p></p><p></p><p></p><p></p>"
+    },
+    "Adder's Blessing": {
+      "name": "Bênção da Víbora",
+      "description": "<p>Você é <strong>imune</strong> a venenos e outras toxinas.</p>"
+    },
+    "Stance - Favored": {
+      "name": "Postura - Favorita",
+      "description": "<p>Favorita: Adicione o atributo de sua escolha à sua rolagem de dano.</p>"
+    },
+    "Control the Beast": {
+      "name": "Controlar a Besta",
+      "description": "<p>Enquanto estiver em sua Forma de Lobo, você pode aplicar o dado bônus dessa forma em seus Testes de Ação de Agilidade e Força.</p>"
+    },
+    "Veilwalker": {
+      "name": "Caminhante do Véu",
+      "description": "<p>Você pode entrar brevemente no reino entre os vivos e os mortos. Gaste 2 Esperança para desaparecer e reaparecer ao lado de uma criatura ou um cadáver dentro de alcance Distante. Você então tem vantagem na próxima rolagem de ataque que fizer nesta cena.</p>"
+    },
+    "Spectral Form": {
+      "name": "Forma Espectral",
+      "description": "<p>Você tem uma opção adicional de movimento de morte: Forma Espectral. Quando você escolhe esta opção, você limpa um Ponto de Vida, seu corpo se torna espectral, você tem resistência a dano físico e pode atravessar objetos. Esta forma termina se você limpar mais Pontos de Vida. Ela também termina se você marcar seu último Ponto de Vida, o que o força a fazer um movimento de morte diferente. Você é empurrado para o espaço aberto mais próximo se estiver dentro de um objeto quando a forma terminar.</p>"
+    },
+    "Feral Hide": {
+      "name": "Couro Selvagem"
+    },
+    "Stance - Defensive": {
+      "name": "Postura - Defensiva",
+      "description": "<p>Defensiva: Rolagens de ataque contra você têm desvantagem a menos que o adversário marque uma Fadiga.</p>"
+    },
+    "Pact of the Wrathful": {
+      "name": "Pacto do Irado"
+    },
+    "Stance - Otherworldly": {
+      "name": "Postura - Sobrenatural",
+      "description": "<p>Sobrenatural: Você pode escolher se causará dano Físico ou Mágico.</p>"
+    },
+    "Rugged": {
+      "name": "Robusto"
+    },
+    "Menacing Reach": {
+      "name": "Alcance Ameaçador",
+      "description": "<p>Quando você <em>Imbui</em> sua arma com a fúria do seu Patrono, você pode <strong>marcar uma Fadiga adicional</strong> para aumentar seu alcance em um passo (Corpo a Corpo para Muito Próximo, Muito Próximo para Próximo, etc.).</p>"
+    },
+    "Keen Defenses": {
+      "name": "Defesas Aguçadas",
+      "description": "<p>Quando você é alvo de um ataque, você pode <strong>gastar um Foco</strong> para fazer a rolagem de ataque do adversário ter desvantagem.</p>"
+    },
+    "Twin Fang": {
+      "name": "Presas Gêmeas",
+      "description": "<p>Quando você afflita um alvo com o efeito de um veneno conhecido, você pode gastar um token adicional para infligir o efeito de um segundo veneno conhecido.</p>"
+    },
+    "Stance - Precise": {
+      "name": "Postura - Precisa"
+    },
+    "Favored Weapon": {
+      "name": "Arma Predileta",
+      "description": "<p><strong>Marque uma Fadiga</strong> para <em>Imbuir</em> sua arma com a fúria do seu Patrono até você causar dano Grave. Em um ataque bem-sucedido com a arma <em>Imbuída</em>, você pode <strong>gastar qualquer número de Favores</strong> para ganhar um bônus de dano de <strong>+1d6</strong> para cada Favor gasto.</p>"
+    },
+    "Mutagens": {
+      "name": "Mutagênicos",
+      "description": "<p>Você usa toxinas mutagênicas criadas para aprimorar suas habilidades. Quando você termina um descanso, pode beber uma dessas toxinas para ganhar seus efeitos, que duram até você terminar seu próximo descanso. Esses efeitos incluem um bônus de +1 em um atributo de sua escolha, uma penalidade de −1 em um atributo diferente de sua escolha, e sua escolha de um dos seguintes benefícios:</p><ul><li><p>Celeridade. Se você estiver Preso ou Vulnerável, você pode marcar uma Fadiga para encerrar a condição em si mesmo.</p></li><li><p>Durável. Sua Pontuação de Armadura aumenta em 2.</p></li><li><p>Sentidos do Caçador. Você tem vantagem em qualquer teste de ação que fizer para rastrear uma criatura, e pode ver no escuro total.</p></li></ul>"
+    },
+    "Chasing Death": {
+      "name": "Perseguindo a Morte",
+      "description": "<p>Enquanto você tiver de 1 a 3 Pontos de Vida não marcados, você pode usar sua habilidade Rito Carmesim sem pagar o custo em Pontos de Vida. Se você tiver apenas 1 Ponto de Vida não marcado, você rola d8s em vez de d6s para o dano extra do seu Rito Carmesim.</p>"
+    },
+    "Stance - Sheltering": {
+      "name": "Postura - Protetora",
+      "description": "<p>Protetora: Quando você marca um Slot de Armadura, ele reduz o dano para você e para todos os aliados dentro de alcance Corpo a Corpo de você que sofreram o mesmo dano.</p>"
+    },
+    "Stance - Invigorating": {
+      "name": "Postura - Revigorante",
+      "description": "<p>Revigorante: Quando você faz um ataque bem-sucedido, role [[/r 1d4]]. Com um 4, ganhe um Foco.</p>"
+    },
+    "Stance - Crushing": {
+      "name": "Postura - Esmagadora",
+      "description": "<p>Esmagadora: Quando você rola 1 em um dado de dano, ele pode ser tratado como o maior valor no dado.</p>"
+    },
+    "Volatile Toxins": {
+      "name": "Toxinas Voláteis",
+      "description": "<p>Você pode escolher dois benefícios de mutagênico em vez de um. Se fizer isso, marque um Ponto de Vida que não pode ser limpo até você terminar seu próximo descanso.</p>"
+    },
+    "Walk Between Worlds": {
+      "name": "Caminhar Entre Mundos",
+      "description": "<p>Faça um <strong>Teste de Conjuração (13)</strong> para passar além do véu da morte e conversar com quaisquer espíritos próximos. Coloque um número de tokens igual ao seu atributo de Conjuração nesta carta e remova um cada vez que um espírito responde a uma pergunta. Você retorna ao reino mortal quando o último token é removido.</p>"
+    },
+    "Death Strike": {
+      "name": "Golpe Mortal",
+      "description": "<p>Quando você causa dano Grave a uma criatura, você pode <strong>marcar uma Fadiga</strong> para fazê-la marcar um Ponto de Vida adicional.</p>"
+    },
+    "Stance - Scary": {
+      "name": "Postura - Assustadora",
+      "description": "<p>Assustadora: Ataques bem-sucedidos também forçam o alvo a marcar uma Fadiga.</p>"
+    },
+    "Draining Bane": {
+      "name": "Maldição Drenante",
+      "description": "<p>Quando um adversário ataca você ou um aliado dentro de alcance Muito Próximo, você pode <strong>gastar 2 Favores</strong> para temporariamente <em>Drenar</em> o adversário. Quando fizer isso, ele deve marcar uma Fadiga e você pode limpar uma Fadiga. Uma criatura <em>Drenada</em> usa um <strong>d12</strong> em vez de um <strong>d20</strong> para rolagens de ataque.</p>"
+    },
+    "Herbal Remedies": {
+      "name": "Remédios Herbais",
+      "description": "<p>Quando você ou um aliado limpa um ou mais Pontos de Vida ou Fadiga como resultado do uso de um consumível, aumente o número limpo em um.</p>"
+    },
+    "Stance - Grappling": {
+      "name": "Postura - Agarradora"
+    },
+    "Hedge": {
+      "name": "Sebes",
+      "description": "<p>Você canaliza os poderes da natureza para criar tanto bênçãos quanto maldições.</p>"
+    },
+    "Juggernaut": {
+      "name": "Juggernaut",
+      "description": "<p>Você moldou seu corpo em uma arma de força bruta, capaz de receber e devolver golpes poderosos.</p>"
+    },
+    "Poisoner's Guild": {
+      "name": "Guilda do Envenenador"
+    },
+    "Circle of Power": {
+      "name": "Círculo de Poder",
+      "description": "<p>Uma vez por descanso, marque um círculo no chão ao redor de você até o alcance Muito Próximo e coloque um número de tokens igual ao seu Atributo de Conjuração nesta carta. Cada vez que você ou qualquer aliado dentro do círculo faz um teste de ação ou é atingido por um ataque, remova um token. Este feitiço dura até o último token ser removido ou você sair do círculo. Enquanto estiver neste círculo, você e quaisquer aliados:</p><ul><li><p>Recebem um bônus de +4 em seus limiares de dano.</p></li><li><p>Recebem um bônus de +2 em suas rolagens de ataque.</p></li><li><p>Recebem um bônus de +1 em sua Evasão.</p></li></ul>"
+    },
+    "Deadly Devotion": {
+      "name": "Devoção Letal",
+      "description": "<p>Em um ataque bem-sucedido, você pode <strong>gastar um Favor</strong> para ganhar um bônus de +1 em sua Evasão até marcar um Ponto de Vida ou fazer um descanso.</p>"
+    },
+    "Mastered Mutagens": {
+      "name": "Mutagênicos Dominados",
+      "description": "<p>O bônus e a penalidade de atributo que você obtém de sua habilidade Mutagênicos muda para +2 e −2, respectivamente. Quando você escolhe um benefício de mutagênico, suas opções também incluem o seguinte:</p><ul><li><p>Sangue Etéreo. Dentro de sua linha de visão, você pode ver criaturas e objetos que estão invisíveis, e ilusões visuais aparecem transparentes para você. Se uma criatura ou objeto dentro de sua linha de visão foi transformado por magia, você pode ver sua forma verdadeira.</p></li><li><p>Fúria. Quando você faz uma rolagem de ataque, você pode marcar uma Fadiga para ganhar um bônus na rolagem igual à sua Proficiência.</p></li><li><p>Carne de Aço. Seu limiar de dano Maior aumenta em um número igual à sua Proficiência.</p></li></ul>"
+    },
+    "Fearsome Attack": {
+      "name": "Ataque Temível",
+      "description": "<p>Você sempre pode <strong>gastar um Favor</strong> para rerolar qualquer número de seus dados de dano. Você pode continuar gastando Favor para rerolar os mesmos dados quantas vezes quiser.</p>"
+    },
+    "Enhanced Hex": {
+      "name": "Maldição Aprimorada",
+      "description": "<p>Ataques que você faz contra criaturas <em>Amaldiçoadas</em> ganham um bônus de dano igual à sua Proficiência.</p>"
+    },
+    "Ambush": {
+      "name": "Emboscada",
+      "description": "<p>Sua habilidade \"Marcado para a Morte\" usa <strong>d6s</strong> em vez de <strong>d4s</strong>.</p>"
+    },
+    "Night's Glamour": {
+      "name": "Glamour da Noite",
+      "description": "<p><strong>Marque uma Fadiga</strong> para se cobrir com uma fachada mágica que dura até você marcar um Ponto de Vida, fazer um ataque ou fazer um descanso. Enquanto estiver com <em>Glamour</em>, você pode:</p><ul><li><p>Se disfarçar para parecer com qualquer criatura de tamanho aproximado que você já viu.</p></li><li><p>Aprimorar sua própria aparência. Você ganha vantagem em Testes de Presença que se aproveitam desta mudança.</p></li></ul>"
+    },
+    "Pummeljoy": {
+      "name": "Pancadaria Prazerosa",
+      "description": "<p>Quando você tem um sucesso crítico em um ataque com arma em alcance Corpo a Corpo, você ganha uma Esperança adicional, limpa uma Fadiga adicional e ganha um bônus de +1 em sua Proficiência para o ataque.</p>"
+    },
+    "Ire of Pale Light": {
+      "name": "Ira da Luz Pálida",
+      "description": "<p>Quando uma criatura <em>Amaldiçoada</em> dentro de alcance Distante falha em uma rolagem de ataque, ela deve marcar uma Fadiga.</p>"
+    },
+    "Stance - Sweeping": {
+      "name": "Postura - Varredora",
+      "description": "<p>Varredora: Seu ataque mira em todos os adversários dentro de alcance Muito Próximo. Cause metade do dano a todos os alvos contra quem você tiver sucesso.</p>"
+    },
+    "Herald of Death": {
+      "name": "Arauto da Morte",
+      "description": "<p>Quando você falha em uma rolagem de ataque, você pode <strong>gastar um Favor</strong> para rerolá-la. Se falhar novamente, marque uma Fadiga e aceite o novo resultado.</p>"
+    },
+    "Pact of the Endless": {
+      "name": "Pacto do Infinito"
+    },
+    "Powerhouse": {
+      "name": "Força Bruta",
+      "description": "<p>Aumente os dados de dano d8 do seu ataque desarmado para d10s. Além disso, você pode <strong>marcar uma Fadiga</strong> para mirar em duas criaturas dentro de alcance Corpo a Corpo com uma única rolagem de ataque.</p><p></p>"
+    },
+    "Order of the Ghost Slayer": {
+      "name": "Ordem do Matador de Fantasmas"
+    },
+    "Improved Mutagens - Ironskin": {
+      "name": "Mutagênicos Aprimorados - Pele de Ferro"
+    },
+    "Improved Mutagens - Rapidity": {
+      "name": "Mutagênicos Aprimorados - Rapidez"
+    },
+    "Waxing Moon": {
+      "name": "Lua Crescente"
+    },
+    "Waning Moon": {
+      "name": "Lua Minguante"
+    },
+    "Full Moon": {
+      "name": "Lua Cheia"
+    },
+    "Mutagens - Durable": {
+      "name": "Mutagênicos - Durável"
+    },
+    "Mastered Mutagens - Steelflesh": {
+      "name": "Mutagênicos Dominados - Carne de Aço"
+    }
+  }
+}
