@@ -44,7 +44,7 @@ No FoundryVTT:
 3. Cole o Manifest URL abaixo:
 
 ```txt
-https://github.com/etiagoabreu/daggerheart-translation-pt-BR/releases/latest/download/module.json
+https://github.com/giovannialopes/daggerheart-translation-pt-BR/releases/latest/download/module.json
 ```
 
 ---
@@ -66,7 +66,7 @@ https://github.com/etiagoabreu/daggerheart-translation-pt-BR/releases/latest/dow
 ### Última versão
 
 ```txt
-https://github.com/etiagoabreu/daggerheart-translation-pt-BR/releases/latest
+https://github.com/giovannialopes/daggerheart-translation-pt-BR/releases/latest
 ```
 
 ---
@@ -76,7 +76,7 @@ https://github.com/etiagoabreu/daggerheart-translation-pt-BR/releases/latest
 GitHub:
 
 ```txt
-https://github.com/etiagoabreu/daggerheart-translation-pt-BR
+https://github.com/giovannialopes/daggerheart-translation-pt-BR
 ```
 
 ---
