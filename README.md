@@ -8,14 +8,14 @@
 ![Art for Daggerheart](https://img.shields.io/badge/Art_for_Daggerheart-v1.1.4-pink)
 ![Babele](https://img.shields.io/badge/Babele-v2.7.7-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-v0.0.1-gray)
+![Version](https://img.shields.io/badge/Version-v0.2.0-gray)
 ![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-gray)
 
 </div>
 
-Tradução NÃO OFICIAL do SRD em Português do Brasil do sistema de RPG Daggerheart da Darrington Press e Critical Role adaptada pela Foundryborne no FoundryVTT. Utilizando os melhores léxicos sugeridos pela comunidade ou popularizados por empresas licenciadas no Brasil.
+Tradução NÃO OFICIAL do SRD em Português do Brasil do sistema de RPG Daggerheart da Darrington Press e Critical Role adaptada pela Foundryborne no FoundryVTT. Inclui também a tradução do conteúdo de **The Void (Unofficial)**, do Mestre Digital. Utilizando os melhores léxicos sugeridos pela comunidade ou popularizados por empresas licenciadas no Brasil.
 
-> Este projeto não possui afiliação oficial com a Foundryborne, Darrington Press, Critical Role ou Foundry Gaming LLC ou Jambô Editora.
+> Este projeto não possui afiliação oficial com a Foundryborne, Darrington Press, Critical Role, Foundry Gaming LLC, Jambô Editora ou com os autores do módulo The Void (Unofficial).
 
 ---
 
@@ -28,6 +28,7 @@ O objetivo deste projeto é proporcionar aos jogadores brasileiros no FoundryVTT
 ## Recursos
 
 - Tradução da interface do sistema Daggerheart da Foundryborne
+- Tradução do conteúdo do módulo The Void (Unofficial), do Mestre Digital
 - Tradução com os melhores léxicos sugeridos pela comunidade ou popularizados por empresas licenciadas no Brasil
 - Compatibilidade com FoundryVTT
 
@@ -44,7 +45,7 @@ No FoundryVTT:
 3. Cole o Manifest URL abaixo:
 
 ```txt
-https://github.com/giovannialopes/daggerheart-translation-pt-BR/releases/latest/download/module.json
+https://github.com/giovannialopes/daggerheart-traducao-livro-the-void-pt-BR/releases/latest/download/module.json
 ```
 
 ---
@@ -66,7 +67,7 @@ https://github.com/giovannialopes/daggerheart-translation-pt-BR/releases/latest/
 ### Última versão
 
 ```txt
-https://github.com/giovannialopes/daggerheart-translation-pt-BR/releases/latest
+https://github.com/giovannialopes/daggerheart-traducao-livro-the-void-pt-BR/releases/latest
 ```
 
 ---
@@ -76,7 +77,7 @@ https://github.com/giovannialopes/daggerheart-translation-pt-BR/releases/latest
 GitHub:
 
 ```txt
-https://github.com/giovannialopes/daggerheart-translation-pt-BR
+https://github.com/giovannialopes/daggerheart-traducao-livro-the-void-pt-BR
 ```
 
 ---
@@ -98,6 +99,7 @@ Distribuído sob a licença MIT.
 - Sistema Daggerheart: Darrington Press, Critical Role
 - Plataforma: FoundryVTT
 - Sistema para o FoundryVTT: Foundryborne
+- Módulo The Void (Unofficial): Mestre Digital
 
 ---
 
