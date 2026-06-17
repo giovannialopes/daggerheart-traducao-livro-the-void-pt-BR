@@ -40,7 +40,7 @@
     },
     "Vampire - Fangs": {
       "name": "Vampiro - Presas",
-      "description": "<p>Vampiros são criaturas mortas-vivas, com presas, que bebem o sangue dos vivos.</p><p></p><p><br /></p><p>Presas: Faça um Teste de Força para morder um alvo dentro do alcance Corpo a Corpo, causando d8 de dano físico usando sua Proficiência.</p><p>@UUID[Compendium.the-void-unofficial.weapons.Item.8LzsXmE2aEgjDPRP]{Presas}</p>"
+      "description": "<p>Vampiros são criaturas mortas-vivas, com presas, que bebem o sangue dos vivos.</p><p></p><p><br /></p><p>Presas: Faça um Teste de Força para morder um alvo dentro do alcance Corpo a Corpo, causando d8 de dano físico usando sua Proficiência.</p><p>@UUID[Compendium.daggerheart-hope-and-fear.weapons.Item.8LzsXmE2aEgjDPRP]{Presas}</p>"
     },
     "Vampire - Feed": {
       "name": "Vampiro - Alimentar",

@@ -59,9 +59,9 @@
     ],
     "optional": [
       {
-        "id": "the-void-unofficial",
+        "id": "daggerheart-hope-and-fear",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/brunocalado/the-void-unofficial/main/module.json"
+        "manifest": "https://raw.githubusercontent.com/giovannialopes/daggerheart-hope-and-fear/main/module.json"
       }
     ]
   },

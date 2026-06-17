@@ -2,7 +2,7 @@
 
 # 🇧🇷 Daggerheart — Tradução Português (Brasil)
 
-**Tradução NÃO OFICIAL do Daggerheart para o FoundryVTT**, incluindo o conteúdo do módulo *The Void (Unofficial)*.
+**Tradução NÃO OFICIAL do Daggerheart para o FoundryVTT**, incluindo o conteúdo do módulo *Hope and Fear*.
 
 ![FoundryVTT](https://img.shields.io/badge/FoundryVTT-v13%2B-orange)
 ![Sistema](https://img.shields.io/badge/Sistema-Daggerheart%20(Foundryborne)-blue)
@@ -16,11 +16,11 @@
 
 ## 📖 Sobre
 
-Este módulo traduz para o **Português do Brasil** o SRD do sistema de RPG **Daggerheart** (Darrington Press / Critical Role), adaptado pela **Foundryborne** para o FoundryVTT. Adicionalmente, traduz o conteúdo do módulo **The Void (Unofficial)**, do Mestre Digital.
+Este módulo traduz para o **Português do Brasil** o SRD do sistema de RPG **Daggerheart** (Darrington Press / Critical Role), adaptado pela **Foundryborne** para o FoundryVTT. Adicionalmente, traduz o conteúdo do módulo **Hope and Fear**, do Mestre Digital.
 
 O objetivo é oferecer aos jogadores brasileiros a mesma experiência terminológica dos materiais publicados oficialmente em português, com uma linguagem natural, consistente e familiar — usando os melhores léxicos sugeridos pela comunidade e popularizados por editoras licenciadas no Brasil.
 
-> ⚠️ Projeto **sem afiliação oficial** com Foundryborne, Darrington Press, Critical Role, Foundry Gaming LLC, Jambô Editora ou com os autores do módulo The Void (Unofficial).
+> ⚠️ Projeto **sem afiliação oficial** com Foundryborne, Darrington Press, Critical Role, Foundry Gaming LLC, Jambô Editora ou com os autores do módulo Hope and Fear.
 
 ---
 
@@ -28,7 +28,7 @@ O objetivo é oferecer aos jogadores brasileiros a mesma experiência terminoló
 
 - 🌐 Tradução da interface do sistema Daggerheart (Foundryborne)
 - 📚 Tradução dos compêndios (ancestralidades, classes, domínios, adversários, equipamentos e mais)
-- 🕳️ Tradução do conteúdo do módulo **The Void (Unofficial)**, do Mestre Digital
+- 🕳️ Tradução do conteúdo do módulo **Hope and Fear**, do Mestre Digital
 - 🗣️ Léxico alinhado às convenções da comunidade brasileira
 - 🎲 Tradução das habilidades e ações dos adversários
 
@@ -56,7 +56,7 @@ Para funcionar corretamente, o módulo depende dos seguintes componentes:
 | [Babele](https://gitlab.com/riccisi/foundryvtt-babele) | Obrigatório | Motor de tradução de compêndios |
 | [Art for Daggerheart](https://github.com/mordachai/art-for-daggerheart) | Obrigatório | Arte para o conteúdo do sistema |
 | [Core PT-BR](https://github.com/mclemente/fvtt-ptbr-core-translation) | Obrigatório | Tradução do núcleo do FoundryVTT |
-| [The Void (Unofficial)](https://github.com/brunocalado/the-void-unofficial) | Opcional | Conteúdo adicional (traduzido por este módulo) |
+| [Hope and Fear](https://github.com/giovannialopes/daggerheart-hope-and-fear) | Opcional | Conteúdo adicional (traduzido por este módulo) |
 
 > O FoundryVTT solicitará a instalação das dependências obrigatórias automaticamente.
 
@@ -85,7 +85,7 @@ Distribuído sob a licença **MIT**.
 
 - **Daggerheart:** Darrington Press, Critical Role
 - **Sistema para FoundryVTT:** Foundryborne
-- **The Void (Unofficial):** Mestre Digital
+- **Hope and Fear:** Mestre Digital
 - **Plataforma:** Foundry Gaming LLC
 - **Tradução:** Adags
 
