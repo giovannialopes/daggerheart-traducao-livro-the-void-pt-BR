@@ -67,7 +67,7 @@ Hooks.once('init', () => {
         const babele = Babele.get();
 
         babele.register({
-            module: 'daggerheart-translation-pt-BR',
+            module: 'daggerheart-traducao-livro-the-void-pt-BR',
             lang: 'pt-BR',
             dir: 'compendium',
         });
@@ -121,12 +121,12 @@ Hooks.on('ready', async () => {
         );
 
         console.log(
-            'daggerheart-translation-pt-BR | Labels das moedas aplicadas!'
+            'daggerheart-traducao-livro-the-void-pt-BR | Labels das moedas aplicadas!'
         );
 
     } catch (err) {
         console.error(
-            'daggerheart-translation-pt-BR | Erro:',
+            'daggerheart-traducao-livro-the-void-pt-BR | Erro:',
             err
         );
     }
