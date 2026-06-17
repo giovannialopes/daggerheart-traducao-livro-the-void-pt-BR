@@ -1,7 +1,11 @@
 {
   "label": "Consumíveis",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "entries": {
     "Major Control Potion": {

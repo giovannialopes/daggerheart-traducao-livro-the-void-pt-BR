@@ -1,7 +1,11 @@
 {
   "label": "Transformações",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "entries": {
     "Demigod": {

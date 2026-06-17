@@ -1,7 +1,11 @@
 {
   "label": "Subclasses",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Brawler": "Brigão",

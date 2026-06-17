@@ -2,7 +2,11 @@
   "label": "Forma de Fera",
   "mapping": {
     "examples": "system.examples",
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Tier 3": "Patamar 3",

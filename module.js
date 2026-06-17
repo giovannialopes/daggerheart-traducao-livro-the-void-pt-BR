@@ -61,6 +61,14 @@ const dhActionNames = {
     'Use': 'Usar',
 };
 
+// Dicionario de nomes de Active Effects (Ingles -> PT-BR), carregado de arquivo.
+// Usado pelo conversor dhEffects para traduzir os effects embutidos nos itens.
+let dhEffectNames = {};
+fetch('modules/daggerheart-traducao-livro-the-void-pt-BR/effect-translations.json')
+    .then((r) => (r.ok ? r.json() : {}))
+    .then((j) => { dhEffectNames = j || {}; })
+    .catch((e) => console.warn('daggerheart-traducao | Falha ao carregar effect-translations.json', e));
+
 Hooks.once('init', () => {
     // Registro do Babele
     if (typeof Babele !== 'undefined') {
@@ -95,6 +103,19 @@ Hooks.once('init', () => {
                             }
                         }
                     }
+                    return updated;
+                });
+            },
+
+            // Traduz os nomes dos Active Effects embutidos (array document.effects)
+            dhEffects: (effects) => {
+                if (!Array.isArray(effects)) return effects;
+                return effects.map((eff) => {
+                    if (!eff || !eff.name) return eff;
+                    const t = dhEffectNames[eff.name];
+                    if (!t) return eff;
+                    const updated = foundry.utils.deepClone(eff);
+                    updated.name = t;
                     return updated;
                 });
             },

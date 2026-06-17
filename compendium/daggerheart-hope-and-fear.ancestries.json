@@ -1,7 +1,11 @@
 {
   "label": "Ancestralidades",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Ancestry Features": "Habilidades de Ancestralidade"

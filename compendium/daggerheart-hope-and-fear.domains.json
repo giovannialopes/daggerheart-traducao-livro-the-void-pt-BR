@@ -1,7 +1,11 @@
 {
   "label": "Domínios",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Blood": "Sangue",

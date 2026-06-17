@@ -1,7 +1,11 @@
 {
   "label": "Domínios",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Level 1": "Nível 1",

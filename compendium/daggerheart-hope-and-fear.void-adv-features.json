@@ -1,7 +1,11 @@
 {
   "label": "Habilidades de Adversários",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Passive": "Passiva",

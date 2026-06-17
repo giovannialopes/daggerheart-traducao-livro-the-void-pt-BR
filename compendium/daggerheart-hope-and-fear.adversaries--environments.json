@@ -1,7 +1,11 @@
 {
   "label": "Adversários e Ambientes",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "dhEffects"
+    }
   },
   "folders": {
     "Adversaries - The Void": "Adversários - O Void",
