@@ -87,7 +87,7 @@ Distribuído sob a licença **MIT**.
 - **Sistema para FoundryVTT:** Foundryborne
 - **The Void (Unofficial):** Mestre Digital
 - **Plataforma:** Foundry Gaming LLC
-- **Tradução:** Giovanni Lopes
+- **Tradução:** Adags
 
 ---
 
