@@ -2,7 +2,7 @@
   "id": "daggerheart-traducao-livro-the-void-pt-BR",
   "title": "Daggerheart: Tradução Português-BR",
   "description": "Tradução NÃO OFICIAL do SRD em Português do Brasil do sistema de RPG Daggerheart da Darrington Press e Critical Role adaptada pela Foundryborne no FoundryVTT. Inclui tradução do conteúdo de Hope and Fear. Utilizando os melhores léxicos sugeridos pela comunidade ou popularizados por empresas licenciadas no Brasil.",
-  "version": "2.3",
+  "version": "2.4",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
